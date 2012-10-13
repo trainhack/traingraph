@@ -19,9 +19,23 @@
                 <xsl:copy-of select="ancestor-or-self::osm/@version" />
                 <xsl:copy-of select="bounds" />
                 <xsl:apply-templates select="//node
-                    [tag[@k = 'railway'and @v = 'station']]
-                    [not(tag[@k = 'railway' and @v = 'abandoned'])]
-                    [not(tag[@k = 'disused' and @v = 'yes'])]
+                    [
+                        tag[
+                            (@k = 'railway'and @v = 'station') or
+                            (@k = 'building' and @v = 'train_station') or
+                            (@k = 'site' and @v = 'railway_station')
+                        ]
+                    ]
+                    [not(tag[@k = 'railway' and (
+                            @v = 'abandoned' or
+                            @v = 'disused' or
+                            @v = 'disused_station' or
+                            @v = 'former_station' or
+                            @v = 'obliterated'
+                            
+                        )])]
+                    [not(tag[@k = 'disused' and @v != 'no'])]
+                    [not(tag[@k = 'abandoned' and @v != 'no'])]
                 " />                
             </osm>
         </xsl:document>
