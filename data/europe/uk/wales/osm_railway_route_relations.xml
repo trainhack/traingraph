@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+   <relation id="162879" version="23" timestamp="2012-09-09T21:32:10Z" uid="505740"
+             user="Hilary Phillips"
+             changeset="13050395">
+      <member type="way" ref="23859474" role=""/>
+      <member type="way" ref="179183220" role=""/>
+      <member type="way" ref="179183221" role=""/>
+      <member type="way" ref="129764782" role=""/>
+      <member type="way" ref="129764779" role=""/>
+      <member type="way" ref="129764780" role=""/>
+      <member type="way" ref="129764781" role=""/>
+      <member type="way" ref="129764778" role=""/>
+      <member type="way" ref="37092840" role=""/>
+      <member type="way" ref="37092841" role=""/>
+      <member type="way" ref="37092846" role=""/>
+      <member type="way" ref="37092847" role=""/>
+      <member type="way" ref="37092848" role=""/>
+      <member type="way" ref="37092849" role=""/>
+      <member type="node" ref="258586868" role="stop"/>
+      <member type="node" ref="258586870" role="stop"/>
+      <member type="node" ref="1400438441" role="stop"/>
+      <member type="node" ref="1401608140" role="stop"/>
+      <member type="node" ref="258586880" role="stop"/>
+      <member type="node" ref="258586885" role="stop"/>
+      <member type="node" ref="431369403" role="stop"/>
+      <member type="node" ref="258586923" role="stop"/>
+      <member type="node" ref="431370430" role="stop"/>
+      <member type="node" ref="1430958511" role="stop"/>
+      <member type="way" ref="136577670" role=""/>
+      <member type="way" ref="136577671" role=""/>
+      <member type="node" ref="1498333257" role="stop"/>
+      <tag k="name" v="Talyllyn"/>
+      <tag k="operator" v="Rheilffordd Talyllyn Railway Company"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="163448" version="1" timestamp="2009-06-26T10:07:11Z" uid="515"
+             user="Frankie Roberto"
+             changeset="1638111">
+      <member type="way" ref="24375803" role=""/>
+      <tag k="name" v="Bala Lake Railway"/>
+      <tag k="name:cy" v="Rheilffordd Llyn Tegid"/>
+      <tag k="name:en" v="Bala Lake Railway"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="163455" version="27" timestamp="2012-07-29T12:27:53Z" uid="359193"
+             user="JeffH"
+             changeset="12534384">
+      <member type="way" ref="137210172" role=""/>
+      <member type="way" ref="5196990" role=""/>
+      <member type="way" ref="137213262" role=""/>
+      <member type="way" ref="137213261" role=""/>
+      <member type="way" ref="80923875" role=""/>
+      <member type="way" ref="80923856" role=""/>
+      <member type="way" ref="33550630" role=""/>
+      <member type="way" ref="33550629" role=""/>
+      <member type="way" ref="41132447" role=""/>
+      <member type="way" ref="41132437" role=""/>
+      <member type="way" ref="41132438" role=""/>
+      <member type="way" ref="41133099" role=""/>
+      <member type="way" ref="41133098" role=""/>
+      <member type="way" ref="137215409" role=""/>
+      <member type="way" ref="137215412" role=""/>
+      <member type="way" ref="124258140" role=""/>
+      <member type="way" ref="124258141" role=""/>
+      <member type="way" ref="173453920" role=""/>
+      <member type="way" ref="173453922" role=""/>
+      <member type="way" ref="122627263" role=""/>
+      <member type="way" ref="154959863" role=""/>
+      <member type="way" ref="154959862" role=""/>
+      <member type="way" ref="37351942" role=""/>
+      <member type="way" ref="172837791" role=""/>
+      <member type="way" ref="172837790" role=""/>
+      <member type="way" ref="52090560" role=""/>
+      <member type="way" ref="52090561" role=""/>
+      <member type="way" ref="59430404" role=""/>
+      <member type="way" ref="59430405" role=""/>
+      <member type="way" ref="59430398" role=""/>
+      <member type="way" ref="59430399" role=""/>
+      <member type="way" ref="110994140" role=""/>
+      <member type="way" ref="110994149" role=""/>
+      <tag k="gauge" v="0.597"/>
+      <tag k="name" v="Ffestiniog Railway"/>
+      <tag k="railway" v="preserved;rail"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="163458" version="17" timestamp="2012-07-16T15:50:09Z" uid="359193"
+             user="JeffH"
+             changeset="12247125">
+      <member type="way" ref="26819778" role=""/>
+      <member type="way" ref="26819776" role="bridge"/>
+      <member type="way" ref="29093693" role=""/>
+      <member type="way" ref="26819738" role="bridge"/>
+      <member type="way" ref="111686319" role=""/>
+      <member type="way" ref="111686313" role="bridge"/>
+      <member type="way" ref="171786879" role=""/>
+      <member type="way" ref="171786881" role=""/>
+      <member type="way" ref="75473167" role=""/>
+      <member type="way" ref="75473164" role=""/>
+      <member type="way" ref="111686307" role=""/>
+      <member type="way" ref="111686315" role=""/>
+      <member type="way" ref="35767834" role=""/>
+      <member type="way" ref="35767833" role=""/>
+      <member type="way" ref="4714722" role=""/>
+      <member type="node" ref="1271340206" role="station"/>
+      <member type="way" ref="111686299" role="station"/>
+      <member type="way" ref="111686316" role="station"/>
+      <member type="way" ref="111686304" role="station"/>
+      <member type="way" ref="111686306" role="station"/>
+      <member type="way" ref="111686311" role="station"/>
+      <tag k="name" v="Snowdon Mountain Railway"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="163545" version="5" timestamp="2012-01-17T21:42:38Z" uid="123364"
+             user="Tronikon"
+             changeset="10422596">
+      <member type="way" ref="28522734" role=""/>
+      <member type="way" ref="64962613" role=""/>
+      <member type="way" ref="64962615" role=""/>
+      <member type="way" ref="64962616" role=""/>
+      <tag k="name" v="Vale of Rheidol Railway"/>
+      <tag k="name:cy" v="Rheilffordd Dyffryn Rheidol"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+      <tag k="website" v="http://www.rheidolrailway.co.uk/"/>
+      <tag k="wikipedia:en" v="Vale of Rheidol Railway"/>
+  </relation>
+   <relation id="163552" version="7" timestamp="2010-11-02T11:39:20Z" uid="252531"
+             user="Rogerc"
+             changeset="6267012">
+      <member type="way" ref="23859910" role=""/>
+      <member type="way" ref="40444358" role=""/>
+      <member type="way" ref="40444359" role=""/>
+      <member type="node" ref="258593969" role="stop"/>
+      <member type="node" ref="431361872" role="stop"/>
+      <tag k="name" v="Welshpool And Llanfair Light Railway"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="163553" version="1" timestamp="2009-06-26T13:52:15Z" uid="515"
+             user="Frankie Roberto"
+             changeset="1640374">
+      <member type="way" ref="24395545" role=""/>
+      <tag k="name" v="Corris Railway"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="163852" version="4" timestamp="2012-01-05T21:34:46Z" uid="63807" user="RAW"
+             changeset="10305869">
+      <member type="way" ref="23863471" role=""/>
+      <member type="way" ref="144328859" role=""/>
+      <member type="way" ref="144328858" role=""/>
+      <member type="node" ref="258653345" role="stop"/>
+      <member type="node" ref="258653355" role="stop"/>
+      <tag k="name" v="Brecon Mountain Railway"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="167930" version="16" timestamp="2012-07-28T19:27:40Z" uid="279806"
+             user="Nice but Tim"
+             changeset="12527323">
+      <member type="node" ref="262606648" role="stop"/>
+      <member type="node" ref="262606635" role="stop"/>
+      <member type="node" ref="262606609" role="stop"/>
+      <member type="node" ref="262606598" role="stop"/>
+      <member type="way" ref="36138162" role=""/>
+      <member type="way" ref="36136973" role=""/>
+      <member type="way" ref="24254687" role=""/>
+      <member type="way" ref="24254686" role=""/>
+      <member type="way" ref="113793858" role=""/>
+      <member type="way" ref="79262118" role=""/>
+      <member type="way" ref="79262116" role=""/>
+      <member type="way" ref="79262123" role=""/>
+      <member type="way" ref="173344001" role=""/>
+      <member type="way" ref="79262115" role=""/>
+      <tag k="name" v="Llangollen Railway"/>
+      <tag k="name:cy" v="Rheilffordd Llangollen"/>
+      <tag k="name:en" v="Llangollen Railway"/>
+      <tag k="railway" v="heritage"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+      <tag k="url" v="http://www.llangollen-railway.co.uk/"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Llangollen_Railway"/>
+  </relation>
+   <relation id="1840998" version="5" timestamp="2012-07-29T13:32:28Z" uid="359193"
+             user="JeffH"
+             changeset="12535058">
+      <member type="way" ref="8137057" role=""/>
+      <member type="way" ref="6075385" role=""/>
+      <member type="way" ref="61960147" role=""/>
+      <member type="way" ref="61960150" role=""/>
+      <member type="way" ref="6075328" role=""/>
+      <member type="way" ref="173464653" role=""/>
+      <member type="way" ref="173464654" role=""/>
+      <member type="way" ref="160906207" role=""/>
+      <member type="way" ref="160906208" role=""/>
+      <member type="way" ref="160906206" role=""/>
+      <member type="way" ref="160906205" role=""/>
+      <member type="way" ref="4714403" role=""/>
+      <member type="way" ref="137212807" role=""/>
+      <member type="way" ref="137212808" role=""/>
+      <member type="way" ref="4714404" role=""/>
+      <member type="way" ref="4010055" role=""/>
+      <member type="way" ref="119106692" role=""/>
+      <member type="way" ref="119106691" role=""/>
+      <member type="way" ref="119106703" role=""/>
+      <member type="way" ref="119106697" role=""/>
+      <member type="way" ref="118999572" role=""/>
+      <member type="way" ref="118999606" role=""/>
+      <member type="way" ref="15928038" role=""/>
+      <member type="way" ref="15928040" role=""/>
+      <member type="way" ref="44536694" role=""/>
+      <member type="way" ref="44536695" role=""/>
+      <member type="way" ref="43343694" role=""/>
+      <member type="way" ref="37295143" role=""/>
+      <member type="way" ref="37295144" role=""/>
+      <member type="way" ref="38523052" role=""/>
+      <member type="way" ref="38523053" role=""/>
+      <member type="way" ref="27626396" role=""/>
+      <member type="way" ref="27626399" role=""/>
+      <member type="way" ref="124808853" role=""/>
+      <member type="way" ref="124808873" role=""/>
+      <member type="way" ref="4010214" role=""/>
+      <member type="way" ref="38166526" role=""/>
+      <member type="way" ref="136339885" role=""/>
+      <member type="way" ref="136339886" role=""/>
+      <member type="way" ref="39516742" role=""/>
+      <member type="way" ref="39505015" role=""/>
+      <member type="way" ref="39548932" role=""/>
+      <member type="way" ref="70767513" role=""/>
+      <member type="way" ref="70767512" role=""/>
+      <member type="way" ref="68562623" role=""/>
+      <member type="way" ref="68562619" role=""/>
+      <member type="way" ref="68562614" role=""/>
+      <member type="way" ref="71820107" role=""/>
+      <member type="way" ref="4010213" role=""/>
+      <member type="way" ref="3995423" role=""/>
+      <member type="way" ref="68562625" role=""/>
+      <member type="way" ref="68562626" role=""/>
+      <member type="way" ref="3995433" role=""/>
+      <member type="way" ref="28480045" role=""/>
+      <member type="way" ref="3995459" role=""/>
+      <member type="way" ref="28479838" role=""/>
+      <member type="way" ref="28479836" role=""/>
+      <member type="way" ref="28479822" role=""/>
+      <member type="way" ref="28479815" role=""/>
+      <member type="way" ref="28480403" role=""/>
+      <member type="way" ref="28480402" role=""/>
+      <member type="way" ref="162153192" role=""/>
+      <member type="way" ref="162153196" role=""/>
+      <member type="way" ref="162153195" role=""/>
+      <member type="way" ref="162153193" role=""/>
+      <member type="way" ref="28479696" role=""/>
+      <member type="way" ref="28479698" role=""/>
+      <member type="way" ref="28479680" role=""/>
+      <member type="way" ref="3996767" role=""/>
+      <member type="way" ref="34780727" role=""/>
+      <member type="way" ref="34780726" role=""/>
+      <member type="way" ref="52731979" role=""/>
+      <member type="way" ref="34292325" role=""/>
+      <member type="way" ref="70991765" role=""/>
+      <member type="way" ref="76197806" role=""/>
+      <member type="way" ref="76197807" role=""/>
+      <member type="way" ref="38731712" role=""/>
+      <member type="way" ref="38731711" role=""/>
+      <member type="way" ref="48132017" role=""/>
+      <member type="way" ref="48132016" role=""/>
+      <member type="way" ref="70991762" role=""/>
+      <member type="way" ref="8131271" role=""/>
+      <member type="way" ref="14187617" role=""/>
+      <member type="way" ref="23618325" role=""/>
+      <member type="way" ref="23706989" role=""/>
+      <member type="way" ref="109868068" role=""/>
+      <tag k="name" v="Cambrian Line"/>
+      <tag k="name:cy" v="Rheilffordd y Cambrian"/>
+      <tag k="name:en" v="Cambrian Line"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="1840999" version="6" timestamp="2012-07-30T20:02:53Z" uid="359193"
+             user="JeffH"
+             changeset="12553184">
+      <member type="way" ref="34693279" role=""/>
+      <member type="way" ref="42577078" role=""/>
+      <member type="way" ref="136627813" role=""/>
+      <member type="way" ref="59494888" role=""/>
+      <member type="way" ref="160408948" role=""/>
+      <member type="way" ref="160408953" role=""/>
+      <member type="way" ref="160462450" role=""/>
+      <member type="way" ref="160462451" role=""/>
+      <member type="way" ref="59494758" role=""/>
+      <member type="way" ref="29011874" role=""/>
+      <member type="way" ref="59495056" role=""/>
+      <member type="way" ref="43103297" role=""/>
+      <member type="way" ref="43103298" role=""/>
+      <member type="way" ref="23561285" role=""/>
+      <member type="way" ref="23564670" role=""/>
+      <member type="way" ref="43103296" role=""/>
+      <member type="way" ref="23561199" role=""/>
+      <member type="way" ref="59495111" role=""/>
+      <member type="way" ref="59495103" role=""/>
+      <member type="way" ref="42967821" role=""/>
+      <member type="way" ref="42967820" role=""/>
+      <member type="way" ref="38424041" role=""/>
+      <member type="way" ref="38424039" role=""/>
+      <member type="way" ref="23637664" role=""/>
+      <member type="way" ref="23561173" role=""/>
+      <member type="way" ref="173678358" role=""/>
+      <member type="way" ref="173678361" role=""/>
+      <member type="way" ref="19112183" role=""/>
+      <member type="way" ref="150235267" role=""/>
+      <member type="way" ref="150230751" role=""/>
+      <member type="way" ref="165376762" role=""/>
+      <tag k="name" v="Conwy Valley Line"/>
+      <tag k="name:cy" v="Rheilffordd Dyffryn Conwy"/>
+      <tag k="name:en" v="Conwy Valley Line"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="1841000" version="6" timestamp="2012-10-09T18:37:21Z" uid="12992"
+             user="trig222"
+             changeset="13431210">
+      <member type="way" ref="28383500" role=""/>
+      <member type="way" ref="28383499" role=""/>
+      <member type="way" ref="38123608" role=""/>
+      <member type="way" ref="38123607" role=""/>
+      <member type="way" ref="105838274" role=""/>
+      <member type="way" ref="105838277" role=""/>
+      <member type="way" ref="25376450" role=""/>
+      <member type="way" ref="180496822" role=""/>
+      <member type="way" ref="180496819" role=""/>
+      <member type="way" ref="180496820" role=""/>
+      <member type="way" ref="180496818" role=""/>
+      <member type="way" ref="184970107" role=""/>
+      <member type="way" ref="184970114" role=""/>
+      <member type="way" ref="25376449" role=""/>
+      <member type="way" ref="3905202" role=""/>
+      <member type="way" ref="4009129" role=""/>
+      <member type="way" ref="172271129" role=""/>
+      <tag k="name" v="Shrewsbury to Chester Line"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="1856280" version="29" timestamp="2012-08-21T18:19:11Z" uid="427658"
+             user="Fluclo"
+             changeset="12811783">
+      <member type="way" ref="4017627" role=""/>
+      <member type="way" ref="102551926" role=""/>
+      <member type="way" ref="102551898" role=""/>
+      <member type="way" ref="102551908" role=""/>
+      <member type="way" ref="102551917" role=""/>
+      <member type="way" ref="174662430" role=""/>
+      <member type="way" ref="174662441" role=""/>
+      <member type="way" ref="42415333" role=""/>
+      <member type="way" ref="24054936" role=""/>
+      <member type="way" ref="24054935" role=""/>
+      <member type="way" ref="26460866" role=""/>
+      <member type="way" ref="28090486" role=""/>
+      <member type="way" ref="51079266" role=""/>
+      <member type="way" ref="51079265" role=""/>
+      <member type="way" ref="3993297" role=""/>
+      <member type="way" ref="28324425" role=""/>
+      <member type="way" ref="28324421" role=""/>
+      <member type="way" ref="33880556" role=""/>
+      <member type="way" ref="33880555" role=""/>
+      <member type="way" ref="33880535" role=""/>
+      <member type="way" ref="33880536" role=""/>
+      <member type="way" ref="3993296" role=""/>
+      <member type="way" ref="35135422" role=""/>
+      <member type="way" ref="35135423" role=""/>
+      <member type="way" ref="135848975" role=""/>
+      <member type="way" ref="135848974" role=""/>
+      <member type="way" ref="27920832" role=""/>
+      <member type="way" ref="27920830" role=""/>
+      <member type="way" ref="27920828" role=""/>
+      <member type="way" ref="27920826" role=""/>
+      <member type="way" ref="3993294" role=""/>
+      <member type="way" ref="27329548" role=""/>
+      <member type="way" ref="3993293" role=""/>
+      <member type="way" ref="30073973" role=""/>
+      <member type="way" ref="29469758" role=""/>
+      <member type="way" ref="30042095" role=""/>
+      <member type="way" ref="27329547" role=""/>
+      <member type="way" ref="30048635" role=""/>
+      <member type="way" ref="30048648" role=""/>
+      <member type="way" ref="30044101" role=""/>
+      <member type="way" ref="27329540" role=""/>
+      <member type="way" ref="27664301" role=""/>
+      <member type="way" ref="27664299" role=""/>
+      <member type="way" ref="3993292" role=""/>
+      <member type="way" ref="135849124" role=""/>
+      <member type="way" ref="135849125" role=""/>
+      <member type="way" ref="3993291" role=""/>
+      <member type="way" ref="24416779" role=""/>
+      <member type="way" ref="24416778" role=""/>
+      <member type="way" ref="7954581" role=""/>
+      <member type="way" ref="7954582" role=""/>
+      <member type="way" ref="27741218" role=""/>
+      <member type="way" ref="27741217" role=""/>
+      <member type="way" ref="111657767" role=""/>
+      <member type="way" ref="111657779" role=""/>
+      <member type="way" ref="3993290" role=""/>
+      <member type="way" ref="7954580" role=""/>
+      <member type="way" ref="7954578" role=""/>
+      <member type="way" ref="7819915" role=""/>
+      <member type="way" ref="41528533" role=""/>
+      <member type="way" ref="102551930" role=""/>
+      <member type="way" ref="102541916" role=""/>
+      <member type="way" ref="102541913" role=""/>
+      <member type="way" ref="102541779" role=""/>
+      <member type="way" ref="102541787" role=""/>
+      <member type="way" ref="102541783" role=""/>
+      <member type="way" ref="102541788" role=""/>
+      <member type="way" ref="102541782" role=""/>
+      <member type="way" ref="102541785" role=""/>
+      <member type="way" ref="118598511" role=""/>
+      <member type="way" ref="118598510" role=""/>
+      <member type="way" ref="87206673" role=""/>
+      <member type="way" ref="87206682" role=""/>
+      <member type="way" ref="118566259" role=""/>
+      <member type="way" ref="118566257" role=""/>
+      <member type="way" ref="51489706" role=""/>
+      <member type="way" ref="51489762" role=""/>
+      <member type="way" ref="22980709" role=""/>
+      <member type="way" ref="22980710" role=""/>
+      <member type="way" ref="102951310" role=""/>
+      <member type="way" ref="102951354" role=""/>
+      <member type="way" ref="86265198" role=""/>
+      <member type="way" ref="86265190" role=""/>
+      <member type="way" ref="117915967" role=""/>
+      <member type="way" ref="117915965" role=""/>
+      <member type="way" ref="118710994" role=""/>
+      <member type="way" ref="118710987" role=""/>
+      <member type="way" ref="26763924" role=""/>
+      <member type="way" ref="117202005" role=""/>
+      <member type="way" ref="41528538" role=""/>
+      <member type="way" ref="7819912" role=""/>
+      <member type="way" ref="7819911" role=""/>
+      <member type="way" ref="121791022" role=""/>
+      <member type="way" ref="24376484" role=""/>
+      <member type="way" ref="41528345" role=""/>
+      <member type="way" ref="24492391" role=""/>
+      <member type="way" ref="24492392" role=""/>
+      <member type="way" ref="137943885" role=""/>
+      <member type="way" ref="137943887" role=""/>
+      <member type="way" ref="11358859" role=""/>
+      <member type="way" ref="11358869" role=""/>
+      <tag k="name" v="South Wales Main Line"/>
+      <tag k="name:cy" v="Prif Linell De Cymru"/>
+      <tag k="name:en" v="South Wales Main Line"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="1856281" version="3" timestamp="2012-08-20T13:37:38Z" uid="7321"
+             user="rollercow"
+             changeset="12796309">
+      <member type="way" ref="33752827" role=""/>
+      <member type="way" ref="33752825" role=""/>
+      <member type="way" ref="23799366" role=""/>
+      <member type="way" ref="23211233" role=""/>
+      <member type="way" ref="23211232" role=""/>
+      <member type="way" ref="27886052" role=""/>
+      <member type="way" ref="27886048" role=""/>
+      <member type="way" ref="22724277" role=""/>
+      <member type="way" ref="176968952" role=""/>
+      <member type="way" ref="176968954" role=""/>
+      <member type="way" ref="176968953" role=""/>
+      <member type="way" ref="176968951" role=""/>
+      <member type="way" ref="22724278" role=""/>
+      <member type="way" ref="58160813" role=""/>
+      <member type="way" ref="58160794" role=""/>
+      <member type="way" ref="115028412" role=""/>
+      <member type="way" ref="115028402" role=""/>
+      <member type="way" ref="115028420" role=""/>
+      <member type="way" ref="115028407" role=""/>
+      <member type="way" ref="115028404" role=""/>
+      <member type="way" ref="115028413" role=""/>
+      <member type="way" ref="115028419" role=""/>
+      <member type="way" ref="115028410" role=""/>
+      <member type="way" ref="158612491" role=""/>
+      <member type="way" ref="4607066" role=""/>
+      <member type="way" ref="158612481" role=""/>
+      <member type="way" ref="158612507" role=""/>
+      <member type="way" ref="4607068" role=""/>
+      <member type="way" ref="4604499" role=""/>
+      <tag k="name" v="Swansea District Railway"/>
+      <tag k="name:en" v="Swansea District Railway"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+   <relation id="1856282" version="27" timestamp="2012-05-30T15:42:54Z" uid="24119"
+             user="Mauls"
+             changeset="11749317">
+      <member type="way" ref="9086200" role=""/>
+      <member type="way" ref="126670604" role=""/>
+      <member type="way" ref="78553180" role=""/>
+      <member type="way" ref="37843136" role=""/>
+      <member type="way" ref="37843137" role=""/>
+      <member type="way" ref="37738863" role=""/>
+      <member type="way" ref="37738864" role=""/>
+      <member type="way" ref="142157991" role=""/>
+      <member type="way" ref="142157992" role=""/>
+      <member type="way" ref="141473464" role=""/>
+      <member type="way" ref="141473466" role=""/>
+      <member type="way" ref="109582337" role=""/>
+      <member type="way" ref="109582326" role=""/>
+      <member type="way" ref="109582323" role=""/>
+      <member type="way" ref="109582314" role=""/>
+      <member type="way" ref="109582335" role=""/>
+      <member type="way" ref="109582329" role=""/>
+      <member type="way" ref="109582336" role=""/>
+      <member type="way" ref="109582328" role=""/>
+      <member type="way" ref="109582320" role=""/>
+      <member type="way" ref="109582327" role=""/>
+      <member type="way" ref="109582317" role=""/>
+      <member type="way" ref="109582333" role=""/>
+      <member type="way" ref="109582330" role=""/>
+      <member type="way" ref="109582324" role=""/>
+      <member type="way" ref="109582310" role=""/>
+      <member type="way" ref="109582332" role=""/>
+      <member type="way" ref="109582321" role=""/>
+      <member type="way" ref="109582316" role=""/>
+      <member type="way" ref="109582322" role=""/>
+      <member type="way" ref="109582313" role=""/>
+      <member type="way" ref="22952040" role=""/>
+      <member type="way" ref="66739020" role=""/>
+      <member type="way" ref="109581528" role=""/>
+      <member type="way" ref="109581530" role=""/>
+      <member type="way" ref="109581531" role=""/>
+      <member type="way" ref="109581523" role=""/>
+      <member type="way" ref="109581529" role=""/>
+      <member type="way" ref="109581525" role=""/>
+      <member type="way" ref="109581524" role=""/>
+      <member type="way" ref="109581527" role=""/>
+      <member type="way" ref="142147545" role=""/>
+      <member type="way" ref="142147548" role=""/>
+      <member type="way" ref="157443807" role=""/>
+      <member type="way" ref="157443763" role=""/>
+      <member type="way" ref="35341391" role=""/>
+      <member type="way" ref="35341390" role=""/>
+      <member type="way" ref="35341393" role=""/>
+      <member type="way" ref="35341392" role=""/>
+      <member type="way" ref="35341394" role=""/>
+      <member type="way" ref="35341395" role=""/>
+      <member type="way" ref="35150897" role=""/>
+      <member type="way" ref="35150896" role=""/>
+      <member type="way" ref="35151118" role=""/>
+      <member type="way" ref="35151117" role=""/>
+      <member type="way" ref="35403275" role=""/>
+      <member type="way" ref="35403274" role=""/>
+      <member type="way" ref="35403273" role=""/>
+      <member type="way" ref="35403276" role=""/>
+      <member type="way" ref="35419659" role=""/>
+      <member type="way" ref="35419660" role=""/>
+      <member type="way" ref="124058295" role=""/>
+      <member type="way" ref="61597539" role=""/>
+      <member type="way" ref="61597547" role=""/>
+      <member type="way" ref="141479618" role=""/>
+      <member type="way" ref="141479614" role=""/>
+      <member type="way" ref="141479397" role=""/>
+      <member type="way" ref="141479398" role=""/>
+      <member type="way" ref="141479399" role=""/>
+      <member type="way" ref="141479400" role=""/>
+      <member type="way" ref="141479006" role=""/>
+      <member type="way" ref="141479008" role=""/>
+      <member type="way" ref="141479010" role=""/>
+      <member type="way" ref="141479007" role=""/>
+      <member type="way" ref="141479011" role=""/>
+      <member type="way" ref="141479009" role=""/>
+      <member type="way" ref="141477458" role=""/>
+      <member type="way" ref="141477457" role=""/>
+      <member type="way" ref="141477339" role=""/>
+      <member type="way" ref="141477341" role=""/>
+      <member type="way" ref="141477340" role=""/>
+      <member type="way" ref="141477342" role=""/>
+      <member type="way" ref="141477043" role=""/>
+      <member type="way" ref="141477042" role=""/>
+      <member type="way" ref="141475659" role=""/>
+      <member type="way" ref="141475655" role=""/>
+      <member type="way" ref="141475660" role=""/>
+      <member type="way" ref="141475658" role=""/>
+      <member type="way" ref="141475656" role=""/>
+      <member type="way" ref="141475657" role=""/>
+      <member type="way" ref="141474901" role=""/>
+      <member type="way" ref="141474900" role=""/>
+      <member type="way" ref="141473465" role=""/>
+      <member type="way" ref="141473467" role=""/>
+      <member type="way" ref="142157989" role=""/>
+      <member type="way" ref="142157987" role=""/>
+      <member type="way" ref="126869112" role=""/>
+      <member type="way" ref="126869173" role=""/>
+      <member type="way" ref="126670987" role=""/>
+      <member type="way" ref="126670658" role=""/>
+      <member type="way" ref="126670656" role=""/>
+      <member type="way" ref="126670657" role=""/>
+      <member type="way" ref="48427276" role=""/>
+      <member type="way" ref="48427270" role=""/>
+      <member type="way" ref="26724042" role=""/>
+      <member type="way" ref="23706989" role=""/>
+      <member type="way" ref="23618325" role=""/>
+      <member type="way" ref="14187617" role=""/>
+      <member type="way" ref="43765235" role=""/>
+      <member type="way" ref="43765234" role=""/>
+      <member type="way" ref="48399219" role=""/>
+      <member type="way" ref="48399220" role=""/>
+      <member type="way" ref="42027870" role=""/>
+      <member type="way" ref="42027869" role=""/>
+      <member type="way" ref="3996926" role=""/>
+      <member type="way" ref="165513900" role=""/>
+      <member type="way" ref="165513907" role=""/>
+      <member type="way" ref="117398907" role=""/>
+      <member type="way" ref="117398909" role=""/>
+      <member type="way" ref="153020708" role=""/>
+      <member type="way" ref="4604662" role=""/>
+      <member type="way" ref="125367603" role=""/>
+      <member type="way" ref="94359895" role=""/>
+      <member type="way" ref="94359892" role=""/>
+      <member type="way" ref="94359899" role=""/>
+      <member type="way" ref="94359900" role=""/>
+      <member type="way" ref="94359904" role=""/>
+      <member type="way" ref="94359893" role=""/>
+      <member type="way" ref="54510489" role=""/>
+      <member type="way" ref="54510497" role=""/>
+      <member type="way" ref="54510491" role=""/>
+      <member type="way" ref="54510490" role=""/>
+      <member type="way" ref="94359901" role=""/>
+      <member type="way" ref="94359909" role=""/>
+      <member type="way" ref="54511334" role=""/>
+      <member type="way" ref="54511335" role=""/>
+      <member type="way" ref="5010192" role=""/>
+      <member type="way" ref="5010565" role=""/>
+      <member type="way" ref="5010563" role=""/>
+      <member type="way" ref="8157656" role=""/>
+      <member type="way" ref="66399350" role=""/>
+      <member type="way" ref="66399349" role=""/>
+      <member type="way" ref="23608331" role=""/>
+      <member type="way" ref="4016277" role=""/>
+      <member type="way" ref="124058297" role=""/>
+      <member type="way" ref="125367606" role=""/>
+      <member type="way" ref="141479616" role=""/>
+      <member type="way" ref="141479619" role=""/>
+      <member type="way" ref="141479617" role=""/>
+      <member type="way" ref="142147547" role=""/>
+      <member type="way" ref="142148372" role=""/>
+      <member type="way" ref="157443811" role=""/>
+      <member type="way" ref="157443793" role=""/>
+      <member type="way" ref="142148571" role=""/>
+      <member type="way" ref="142148572" role=""/>
+      <member type="way" ref="142148574" role=""/>
+      <member type="way" ref="142148573" role=""/>
+      <member type="way" ref="142148767" role=""/>
+      <member type="way" ref="142148773" role=""/>
+      <member type="way" ref="142148931" role=""/>
+      <member type="way" ref="142148932" role=""/>
+      <member type="way" ref="142149353" role=""/>
+      <member type="way" ref="142149358" role=""/>
+      <member type="way" ref="142149363" role=""/>
+      <member type="way" ref="142149357" role=""/>
+      <member type="way" ref="142149610" role=""/>
+      <member type="way" ref="142149611" role=""/>
+      <member type="way" ref="142150299" role=""/>
+      <member type="way" ref="142150297" role=""/>
+      <member type="way" ref="142150769" role=""/>
+      <member type="way" ref="142906526" role=""/>
+      <member type="way" ref="126670606" role=""/>
+      <member type="way" ref="126550346" role=""/>
+      <member type="way" ref="126550342" role=""/>
+      <member type="way" ref="40430920" role=""/>
+      <member type="way" ref="126550338" role=""/>
+      <member type="way" ref="126364315" role=""/>
+      <member type="way" ref="126467218" role=""/>
+      <tag k="name" v="Welsh Marches Line"/>
+      <tag k="name:cy" v="Llinell y Mers"/>
+      <tag k="name:en" v="Welsh Marches Line"/>
+      <tag k="name:hu" v="Walesi határvidék vasútvonal"/>
+      <tag k="route" v="railway"/>
+      <tag k="type" v="route"/>
+  </relation>
+</osm>
