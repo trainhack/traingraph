@@ -9,15 +9,16 @@
         
     <xsl:output   
         indent="yes"
-        method="xml"
+        method="xml"        
         encoding="UTF-8" 
     />
     
-    <xsl:template match="/">
-        <xsl:document>
+    <xsl:template match="osm">
+        <xsl:document>            
             <osm>
                 <xsl:copy-of select="ancestor-or-self::osm/@version" />
-            <xsl:apply-templates select="//relation[tag[@k = 'route' and @v = 'railway'] or (tag/@k = 'railway' and tag[@k = 'type' and @v = 'route'])]" />
+                <xsl:copy-of select="bounds" />
+                <xsl:apply-templates select="//relation[tag[@k = 'route' and @v = 'railway'] or (tag/@k = 'railway' and tag[@k = 'type' and @v = 'route'])]" />
             </osm>
         </xsl:document>
     </xsl:template>

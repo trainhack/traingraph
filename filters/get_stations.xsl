@@ -13,11 +13,12 @@
         encoding="UTF-8" 
     />
     
-    <xsl:template match="/">
+    <xsl:template match="osm">
         <xsl:document>
             <osm>
                 <xsl:copy-of select="ancestor-or-self::osm/@version" />
-            <xsl:apply-templates select="//node[tag[@k = 'railway'][@v = 'station']]" />
+                <xsl:copy-of select="bounds" />
+                <xsl:apply-templates select="//node[tag[@k = 'railway'][@v = 'station']]" />
             </osm>
         </xsl:document>
     </xsl:template>

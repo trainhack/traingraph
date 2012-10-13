@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm>
+<osm version="0.6">
+   <bounds minlon="-5.51393" minlat="51.33201" maxlon="-2.65382" maxlat="53.55413"
+           origin="0.41"/>
    <node id="387754" version="9" timestamp="2012-05-15T19:15:50Z" uid="165"
          user="Richard"
          changeset="11608009"
