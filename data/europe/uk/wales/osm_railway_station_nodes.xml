@@ -1,0 +1,3810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+   <node id="387754" version="9" timestamp="2012-05-15T19:15:50Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.3181393"
+         lon="-3.4889651">
+      <tag k="name" v="Y Rhyl"/>
+      <tag k="naptan:AtcoCode" v="9100RHYL"/>
+      <tag k="odbl" v="clean"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Rhyl_railway_station"/>
+  </node>
+   <node id="10280994" version="10" timestamp="2012-05-15T19:29:40Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.2840536"
+         lon="-3.8090412">
+      <tag k="name" v="Llandudno Junction"/>
+      <tag k="name:cy" v="Cyffordd Llandudno"/>
+      <tag k="naptan:AtcoCode" v="9100LANDUDJ"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="10281125" version="7" timestamp="2012-05-15T19:16:11Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.2497337"
+         lon="-3.1322985">
+      <tag k="name" v="Flint"/>
+      <tag k="name:cy" v="Y Fflint"/>
+      <tag k="naptan:AtcoCode" v="9100FLINT"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="10281147" version="8" timestamp="2012-05-15T19:15:55Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.213802"
+         lon="-3.0372614">
+      <tag k="name" v="Shotton Low Level"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="18154990" version="7" timestamp="2012-05-15T19:25:36Z" uid="165"
+         user="Richard"
+         changeset="11608106"
+         lat="51.5845192"
+         lon="-2.7597681">
+      <tag k="name" v="Caldicot"/>
+      <tag k="naptan:AtcoCode" v="9100CDCOT"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="CDT"/>
+      <tag k="source" v="Landsat photo"/>
+  </node>
+   <node id="18235811" version="5" timestamp="2011-12-16T14:49:26Z" uid="24256"
+         user="oglord"
+         changeset="10131451"
+         lat="51.5907806"
+         lon="-2.7150351">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Portskewett"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="Landsat photo"/>
+  </node>
+   <node id="19840190" version="8" timestamp="2012-07-24T20:19:10Z" uid="38588"
+         user="mentor"
+         changeset="12475286"
+         lat="51.7149818"
+         lon="-5.0413458">
+      <tag k="name" v="Milford Haven"/>
+      <tag k="name:cy" v="Aberdaugleddau"/>
+      <tag k="name:en" v="Milford Haven"/>
+      <tag k="naptan:AtcoCode" v="9100MLFDHVN"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="19840233" version="4" timestamp="2012-05-15T19:27:55Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7566699"
+         lon="-4.9969072">
+      <tag k="name" v="Johnston"/>
+      <tag k="naptan:AtcoCode" v="9100JHNSTND"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="19840285" version="9" timestamp="2012-05-15T19:27:57Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.8026615"
+         lon="-4.9602657">
+      <tag k="name" v="Haverfordwest"/>
+      <tag k="name:cy" v="Hwlffordd"/>
+      <tag k="naptan:AtcoCode" v="9100HAVRFDW"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="19862316" version="9" timestamp="2012-05-15T19:27:59Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.0106569"
+         lon="-4.9862937">
+      <tag k="name" v="Fishguard Harbour"/>
+      <tag k="name:cy" v="Porthladd Abergwaun"/>
+      <tag k="naptan:AtcoCode" v="9100FGDHBR"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="FGH"/>
+  </node>
+   <node id="20068020" version="7" timestamp="2012-05-15T19:16:14Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="52.9332267"
+         lon="-3.066166">
+      <tag k="name" v="Chirk"/>
+      <tag k="name:cy" v="Y Waun"/>
+      <tag k="naptan:AtcoCode" v="9100CHIRK"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20069422" version="9" timestamp="2012-05-15T19:15:58Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="52.9871956"
+         lon="-3.0432737">
+      <tag k="name" v="Ruabon"/>
+      <tag k="name:cy" v="Rhiwabon"/>
+      <tag k="naptan:AtcoCode" v="9100RUABON"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20455337" version="6" timestamp="2012-05-15T19:28:03Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.8517199"
+         lon="-4.8821161">
+      <tag k="name" v="Clarbeston Road"/>
+      <tag k="naptan:AtcoCode" v="9100CLARBRD"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20466178" version="8" timestamp="2012-05-15T19:16:14Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="51.8401201"
+         lon="-4.730997">
+      <tag k="alt_name" v="Clynderwen"/>
+      <tag k="name" v="Clunderwen"/>
+      <tag k="naptan:AtcoCode" v="9100CLYNDRW"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20468177" version="6" timestamp="2012-05-15T19:27:32Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.8177968"
+         lon="-4.6138778">
+      <tag k="name" v="Whitland"/>
+      <tag k="name:cy" v="Hendy-gwyn"/>
+      <tag k="naptan:AtcoCode" v="9100WHLAND"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20694860" version="8" timestamp="2012-05-15T19:27:43Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7992722"
+         lon="-4.7271665">
+      <tag k="name" v="Narberth"/>
+      <tag k="name:cy" v="Arberth"/>
+      <tag k="naptan:AtcoCode" v="9100NRBERTH"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20694942" version="7" timestamp="2012-05-15T19:27:54Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7321699"
+         lon="-4.7143751">
+      <tag k="name" v="Kilgetty"/>
+      <tag k="name:cy" v="Cilgeti"/>
+      <tag k="naptan:AtcoCode" v="9100KILGETY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20694947" version="7" timestamp="2012-05-15T19:27:36Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7225064"
+         lon="-4.718076">
+      <tag k="name" v="Saundersfoot"/>
+      <tag k="naptan:AtcoCode" v="9100SDRSFOT"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20694978" version="9" timestamp="2012-05-15T19:27:34Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6726572"
+         lon="-4.706668">
+      <tag k="name" v="Tenby"/>
+      <tag k="name:cy" v="Dinbych-y-Pysgod"/>
+      <tag k="naptan:AtcoCode" v="9100TENBY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20694982" version="8" timestamp="2012-07-24T20:19:11Z" uid="38588"
+         user="mentor"
+         changeset="12475286"
+         lat="51.6585216"
+         lon="-4.722468">
+      <tag k="name" v="Penally"/>
+      <tag k="name:cy" v="Penalun"/>
+      <tag k="name:en" v="Penally"/>
+      <tag k="naptan:AtcoCode" v="9100PNALLY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20695011" version="7" timestamp="2012-07-24T20:19:09Z" uid="38588"
+         user="mentor"
+         changeset="12475286"
+         lat="51.6603402"
+         lon="-4.7927532">
+      <tag k="name" v="Manorbier"/>
+      <tag k="name:cy" v="Maenorbŷr"/>
+      <tag k="name:en" v="Manorbier"/>
+      <tag k="naptan:AtcoCode" v="9100MNORBER"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20695038" version="8" timestamp="2012-07-24T20:19:09Z" uid="38588"
+         user="mentor"
+         changeset="12475286"
+         lat="51.6671259"
+         lon="-4.8730509">
+      <tag k="name" v="Lamphey"/>
+      <tag k="name:cy" v="Llandyfái"/>
+      <tag k="name:en" v="Lamphey"/>
+      <tag k="naptan:AtcoCode" v="9100LAMPHEY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20695042" version="11" timestamp="2012-07-24T20:19:10Z" uid="38588"
+         user="mentor"
+         changeset="12475286"
+         lat="51.6729959"
+         lon="-4.9064719">
+      <tag k="name" v="Pembroke"/>
+      <tag k="name:cy" v="Penfro"/>
+      <tag k="name:en" v="Pembroke"/>
+      <tag k="naptan:AtcoCode" v="9100PEMBROK"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20849786" version="9" timestamp="2012-05-15T19:28:04Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.8532879"
+         lon="-4.3057114">
+      <tag k="is_in" v="Carmarthenshire,Wales,UK"/>
+      <tag k="name" v="Carmarthen"/>
+      <tag k="name:cy" v="Caerfyrddin"/>
+      <tag k="naptan:AtcoCode" v="9100CMTHN"/>
+      <tag k="nat_name" v="Caerfyrddin"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20924997" version="6" timestamp="2012-05-15T19:27:41Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.68407"
+         lon="-4.24894">
+      <tag k="name" v="Pembrey and Burry Port"/>
+      <tag k="name:cy" v="Pen-bre a Phorth Tywyn"/>
+      <tag k="naptan:AtcoCode" v="9100PMBRYBP"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925014" version="7" timestamp="2012-05-15T19:27:55Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.734194"
+         lon="-4.3169794">
+      <tag k="name" v="Kidwelly"/>
+      <tag k="name:cy" v="Cydweli"/>
+      <tag k="naptan:AtcoCode" v="9100KIDWELY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925023" version="11" timestamp="2012-08-21T16:43:07Z" uid="427658"
+         user="Fluclo"
+         changeset="12810697"
+         lat="51.6737797"
+         lon="-4.1610727">
+      <tag k="name" v="Llanelli"/>
+      <tag k="naptan:AtcoCode" v="9100LLNLLI"/>
+      <tag k="railway" v="station"/>
+      <tag k="wheelchair" v="no"/>
+  </node>
+   <node id="20925061" version="5" timestamp="2012-05-15T19:28:00Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.76835"
+         lon="-4.36955">
+      <tag k="name" v="Ferryside"/>
+      <tag k="name:cy" v="Glanyfferi"/>
+      <tag k="naptan:AtcoCode" v="9100FYSD"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925148" version="4" timestamp="2012-05-04T15:43:36Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.59274"
+         lon="-3.7819">
+      <tag k="name" v="Port Talbot Parkway"/>
+      <tag k="naptan:AtcoCode" v="9100PTALBOT"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925158" version="4" timestamp="2012-05-04T15:43:34Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.6615824"
+         lon="-3.8843603">
+      <tag k="name" v="Llansamlet"/>
+      <tag k="naptan:AtcoCode" v="9100LLNSMLT"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925219" version="5" timestamp="2012-05-04T15:43:37Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.6615419"
+         lon="-3.8463653">
+      <tag k="name" v="Skewen"/>
+      <tag k="name:cy" v="Sgiwen"/>
+      <tag k="naptan:AtcoCode" v="9100SKEWEN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925229" version="11" timestamp="2012-05-04T15:43:35Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.6622169"
+         lon="-3.807246">
+      <tag k="name" v="Neath"/>
+      <tag k="name:cy" v="Castell-nedd"/>
+      <tag k="naptan:AtcoCode" v="9100NEATH"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925280" version="7" timestamp="2012-05-14T17:32:00Z" uid="4951"
+         user="PeterIto"
+         changeset="11597956"
+         lat="51.6381555"
+         lon="-3.8199603">
+      <tag k="name" v="Briton Ferry"/>
+      <tag k="name:cy" v="Llansawel"/>
+      <tag k="naptan:AtcoCode" v="9100BRITFRY"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20925299" version="11" timestamp="2012-05-15T19:28:31Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.5071419"
+         lon="-3.5752632">
+      <tag k="name" v="Bridgend"/>
+      <tag k="name:cy" v="Pen-y-Bont ar Ogwr"/>
+      <tag k="naptan:AtcoCode" v="9100BRGEND"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BGN"/>
+  </node>
+   <node id="20925325" version="7" timestamp="2012-05-04T15:43:36Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.5252"
+         lon="-3.69704">
+      <tag k="name" v="Pyle"/>
+      <tag k="name:cy" v="Y Pîl"/>
+      <tag k="naptan:AtcoCode" v="9100PYLE"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20926741" version="6" timestamp="2012-05-04T15:43:34Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.5376497"
+         lon="-3.4401497">
+      <tag k="name" v="Llanharan"/>
+      <tag k="naptan:AtcoCode" v="9100LLHARAN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="20926750" version="11" timestamp="2012-05-15T19:25:45Z" uid="165"
+         user="Richard"
+         changeset="11608108"
+         lat="51.5896701"
+         lon="-2.9988525">
+      <tag k="name" v="Newport"/>
+      <tag k="name:cy" v="Casnewydd"/>
+      <tag k="naptan:AtcoCode" v="9100NWPTRTG"/>
+      <tag k="postal_code" v="NP20 4AX"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="NWP"/>
+  </node>
+   <node id="20926765" version="4" timestamp="2012-05-04T15:43:36Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.52437"
+         lon="-3.50074">
+      <tag k="name" v="Pencoed"/>
+      <tag k="naptan:AtcoCode" v="9100PENCOED"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20926799" version="8" timestamp="2012-05-15T19:25:36Z" uid="165"
+         user="Richard"
+         changeset="11608106"
+         lat="51.6399641"
+         lon="-2.6711114">
+      <tag k="name" v="Chepstow"/>
+      <tag k="name:cy" v="Cas-gwent"/>
+      <tag k="naptan:AtcoCode" v="9100CHEPSTW"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20926867" version="7" timestamp="2012-08-05T17:40:35Z" uid="165061"
+         user="mapper999"
+         changeset="12623789"
+         lat="51.5238308"
+         lon="-3.3920737">
+      <tag k="name" v="Pontyclun"/>
+      <tag k="naptan:AtcoCode" v="9100PONYCLN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PYC"/>
+  </node>
+   <node id="20946980" version="9" timestamp="2012-08-03T09:52:01Z" uid="359193"
+         user="JeffH"
+         changeset="12596082"
+         lat="52.4138698"
+         lon="-4.0815399">
+      <tag k="name" v="Aberystwyth"/>
+      <tag k="naptan:AtcoCode" v="9100ABRYSTH"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="AYW"/>
+      <tag k="uic_ref" v="7000021"/>
+  </node>
+   <node id="20947084" version="6" timestamp="2012-05-04T21:52:04Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.5645716"
+         lon="-3.9239961">
+      <tag k="name" v="Dovey Junction"/>
+      <tag k="name:cy" v="Cyffordd Dyfi"/>
+      <tag k="naptan:AtcoCode" v="9100DOVYJN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20947133" version="9" timestamp="2012-05-15T19:16:04Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="52.5954098"
+         lon="-3.8543788">
+      <tag k="name" v="Machynlleth"/>
+      <tag k="naptan:AtcoCode" v="9100MCHYNLT"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20955965" version="8" timestamp="2012-05-15T19:16:16Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="52.5162055"
+         lon="-3.4327295">
+      <tag k="name" v="Caersws"/>
+      <tag k="naptan:AtcoCode" v="9100CARSWS"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20956351" version="7" timestamp="2012-05-04T15:43:35Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="52.5123422"
+         lon="-3.3111652">
+      <tag k="name" v="Newtown"/>
+      <tag k="name:cy" v="Y Drenewydd"/>
+      <tag k="name:en" v="Newtown"/>
+      <tag k="naptan:AtcoCode" v="9100NWTP"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="20956670" version="8" timestamp="2012-05-04T15:43:39Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="52.6573033"
+         lon="-3.1400701">
+      <tag k="name" v="Welshpool"/>
+      <tag k="name:cy" v="Y Trallwng"/>
+      <tag k="naptan:AtcoCode" v="9100WELSHPL"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="21181468" version="6" timestamp="2011-11-16T09:48:50Z" uid="397326"
+         user="trolleway"
+         changeset="9842671"
+         lat="52.9260076"
+         lon="-4.0850026">
+      <tag k="name" v="Minffordd"/>
+      <tag k="name:ru" v="Минфорт"/>
+      <tag k="naptan:AtcoCode" v="9100MINFFR"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="21181651" version="6" timestamp="2012-05-04T21:52:03Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.7223689"
+         lon="-4.056744">
+      <tag k="name" v="Barmouth"/>
+      <tag k="name:cy" v="Abermaw"/>
+      <tag k="name:en" v="Barmouth"/>
+      <tag k="naptan:AtcoCode" v="9100BRMOUTH"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="21181684" version="3" timestamp="2012-05-04T21:52:04Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.6962259"
+         lon="-4.0487121">
+      <tag k="name" v="Fairbourne"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="21182707" version="7" timestamp="2012-05-04T21:52:02Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.5443013"
+         lon="-4.0557622">
+      <tag k="name" v="Aberdovey"/>
+      <tag k="name:cy" v="Aberdyfi"/>
+      <tag k="name:en" v="Aberdovey"/>
+      <tag k="naptan:AtcoCode" v="9100ABDVY"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="survey"/>
+      <tag k="uic_ref" v="7000020"/>
+  </node>
+   <node id="21415069" version="9" timestamp="2012-05-15T19:28:30Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.4819316"
+         lon="-3.1703875">
+      <tag k="name" v="Cardiff Queen Street"/>
+      <tag k="name:cy" v="Caerdydd Heol y Frenhines"/>
+      <tag k="naptan:AtcoCode" v="9100CARDFQS"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="CDQ"/>
+  </node>
+   <node id="21415074" version="7" timestamp="2012-05-15T19:28:29Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.488962"
+         lon="-3.1790488">
+      <tag k="name" v="Cathays"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="21415085" version="8" timestamp="2012-08-07T14:10:41Z" uid="769984"
+         user="Phil G"
+         changeset="12645953"
+         lat="51.5084393"
+         lon="-3.22879">
+      <tag k="name" v="Llandaf"/>
+      <tag k="naptan:AtcoCode" v="9100LLANDAF"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LLN"/>
+  </node>
+   <node id="21590944" version="9" timestamp="2012-05-15T19:30:34Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.2945612"
+         lon="-3.8332096">
+      <tag k="name" v="Deganwy"/>
+      <tag k="naptan:AtcoCode" v="9100DEGANWY"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="21590953" version="8" timestamp="2012-05-15T19:29:39Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.320493"
+         lon="-3.8272633">
+      <tag k="name" v="Llandudno"/>
+      <tag k="naptan:AtcoCode" v="9100LUDO"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="25438775" version="3" timestamp="2012-05-04T21:52:04Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.9183219"
+         lon="-4.2370319">
+      <tag k="name" v="Criccieth"/>
+      <tag k="naptan:AtcoCode" v="9100CRICCTH"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="25438791" version="2" timestamp="2012-04-12T13:37:21Z" uid="24256"
+         user="oglord"
+         changeset="11276577"
+         lat="52.909213"
+         lon="-4.3144941">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Afon Wen junction"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="25438815" version="5" timestamp="2012-05-04T21:52:06Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.887933"
+         lon="-4.4168472">
+      <tag k="name" v="Pwllheli"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="postal_code" v="LL53 5HG"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PWL"/>
+  </node>
+   <node id="26722291" version="6" timestamp="2012-05-15T19:16:06Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.1168734"
+         lon="-3.037145">
+      <tag k="name" v="Hope"/>
+      <tag k="name:cy" v="Yr Hob"/>
+      <tag k="naptan:AtcoCode" v="9100HOPC"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="26722292" version="4" timestamp="2012-05-15T19:16:16Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.1080758"
+         lon="-3.0331388">
+      <tag k="name" v="Caergwrle"/>
+      <tag k="naptan:AtcoCode" v="9100CAERGWL"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="26722295" version="5" timestamp="2012-05-15T19:16:15Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.0988312"
+         lon="-3.0307956">
+      <tag k="name" v="Cefn-y-Bedd"/>
+      <tag k="naptan:AtcoCode" v="9100CEFNYBD"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="26722300" version="9" timestamp="2012-05-15T19:16:09Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.0727105"
+         lon="-3.0177208">
+      <tag k="name" v="Gwersyllt"/>
+      <tag k="naptan:AtcoCode" v="9100GWRSYLT"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="26722310" version="7" timestamp="2012-05-15T19:15:52Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.0463785"
+         lon="-2.9994746">
+      <tag k="name" v="Wrexham Central"/>
+      <tag k="name:cy" v="Wrecsam Canolog"/>
+      <tag k="naptan:AtcoCode" v="9100WREXHMC"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="26722314" version="9" timestamp="2012-05-15T19:15:51Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.0508247"
+         lon="-3.0014065">
+      <tag k="name" v="Wrexham General"/>
+      <tag k="name:cy" v="Wrecsam Cyffredinol"/>
+      <tag k="naptan:AtcoCode" v="9100WREXHMG"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="27287773" version="6" timestamp="2012-05-15T19:16:01Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.2705342"
+         lon="-3.9235038">
+      <tag k="name" v="Penmaenmawr"/>
+      <tag k="naptan:AtcoCode" v="9100PNMNMWR"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="27287820" version="8" timestamp="2012-08-06T18:14:47Z" uid="13241"
+         user="spark"
+         changeset="12636692"
+         lat="53.2226073"
+         lon="-4.1354333">
+      <tag k="name" v="Bangor"/>
+      <tag k="naptan:AtcoCode" v="9100BANGOR"/>
+      <tag k="platforms" v="2"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BNG"/>
+      <tag k="start_date" v="1848-05-01"/>
+      <tag k="wheelchair" v="yes"/>
+      <tag k="wikipedia"
+           v="http://en.wikipedia.org/wiki/Bangor_%28Gwynedd%29_railway_station"/>
+  </node>
+   <node id="29034891" version="8" timestamp="2012-05-15T19:16:08Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.21791"
+         lon="-3.0326159">
+      <tag k="name" v="Hawarden Bridge"/>
+      <tag k="name:cy" v="Pont Benarlâg"/>
+      <tag k="naptan:AtcoCode" v="9100HAWDNBG"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="29133021" version="8" timestamp="2012-05-15T19:27:42Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7780664"
+         lon="-3.9976203">
+      <tag k="name" v="Pantyffynnon"/>
+      <tag k="naptan:AtcoCode" v="9100PNTYFYN"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="29133440" version="6" timestamp="2012-05-15T19:27:35Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.0803239"
+         lon="-3.6881879">
+      <tag k="name" v="Sugar Loaf"/>
+      <tag k="naptan:AtcoCode" v="9100SGRLOAF"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="29133477" version="7" timestamp="2012-05-15T19:27:44Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.1046861"
+         lon="-3.6318398">
+      <tag k="name" v="Llanwrtyd"/>
+      <tag k="naptan:AtcoCode" v="9100LLWRTYW"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+      <tag k="uic_ref" v="7001452"/>
+  </node>
+   <node id="29133521" version="6" timestamp="2012-05-15T19:27:48Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.1140523"
+         lon="-3.5554406">
+      <tag k="name" v="Llangammarch"/>
+      <tag k="naptan:AtcoCode" v="9100LLGMMRW"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LLM"/>
+  </node>
+   <node id="29133537" version="6" timestamp="2012-05-15T19:27:59Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.133198"
+         lon="-3.5305598">
+      <tag k="alt_name" v="Garth (Powys)"/>
+      <tag k="name" v="Garth"/>
+      <tag k="naptan:AtcoCode" v="9100GARTH"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="GTH"/>
+  </node>
+   <node id="29133578" version="6" timestamp="2011-08-25T14:52:44Z" uid="508"
+         user="Welshie"
+         changeset="9121999"
+         lat="52.1687618"
+         lon="-3.4273962">
+      <tag k="name" v="Builth Road"/>
+      <tag k="naptan:AtcoCode" v="9100BUILTHR"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BHR"/>
+  </node>
+   <node id="29133637" version="9" timestamp="2012-05-15T19:27:49Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.2423721"
+         lon="-3.3793432">
+      <tag k="name" v="Llandrindod"/>
+      <tag k="naptan:AtcoCode" v="9100LLDODW"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LLO"/>
+  </node>
+   <node id="29133659" version="6" timestamp="2012-05-15T19:27:40Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.2743863"
+         lon="-3.3223875">
+      <tag k="name" v="Pen-y-Bont"/>
+      <tag k="naptan:AtcoCode" v="9100PYBONT"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PNY"/>
+  </node>
+   <node id="29133698" version="7" timestamp="2012-05-15T19:27:51Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.3367899"
+         lon="-3.2120494">
+      <tag k="name" v="Llanbister Road"/>
+      <tag k="naptan:AtcoCode" v="9100LLBSTRD"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LLT"/>
+  </node>
+   <node id="29133734" version="9" timestamp="2012-05-15T19:27:46Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.3500294"
+         lon="-3.1614479">
+      <tag k="name" v="Llangynllo"/>
+      <tag k="naptan:AtcoCode" v="9100LLGUNLO"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LGO"/>
+  </node>
+   <node id="29133776" version="7" timestamp="2012-05-15T19:27:53Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.3449315"
+         lon="-3.041847">
+      <tag k="name" v="Knighton"/>
+      <tag k="name:cy" v="Tref-y-Clawdd"/>
+      <tag k="naptan:AtcoCode" v="9100KNIGHTN"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="KNI"/>
+  </node>
+   <node id="29133811" version="5" timestamp="2012-05-15T19:27:55Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.3909842"
+         lon="-2.9123388">
+      <tag k="name" v="Hopton Heath"/>
+      <tag k="naptan:AtcoCode" v="9100HOPTONH"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="HPT"/>
+  </node>
+   <node id="29133829" version="6" timestamp="2012-05-15T19:28:06Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.423844"
+         lon="-2.8831067">
+      <tag k="name" v="Broome"/>
+      <tag k="naptan:AtcoCode" v="9100BROOME"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BME"/>
+  </node>
+   <node id="29159125" version="8" timestamp="2012-05-15T19:27:47Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6911977"
+         lon="-4.0789527">
+      <tag k="name" v="Llangennech"/>
+      <tag k="naptan:AtcoCode" v="9100LLGNNCH"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="29159131" version="7" timestamp="2012-05-15T19:28:05Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6722311"
+         lon="-4.0987454">
+      <tag k="name" v="Bynea"/>
+      <tag k="naptan:AtcoCode" v="9100BYNEA"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="29217248" version="5" timestamp="2012-07-30T17:05:33Z" uid="359193"
+         user="JeffH"
+         changeset="12550733"
+         lat="52.9287529"
+         lon="-4.0644936">
+      <tag k="name" v="Penrhyndeudraeth"/>
+      <tag k="name:ru" v="Пенриндейдрайт"/>
+      <tag k="naptan:AtcoCode" v="9100PRHN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="npe"/>
+  </node>
+   <node id="29218263" version="3" timestamp="2012-05-04T21:52:04Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.8615245"
+         lon="-4.1095566">
+      <tag k="name" v="Harlech"/>
+      <tag k="naptan:AtcoCode" v="9100HRLC"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="npe"/>
+  </node>
+   <node id="29533758" version="7" timestamp="2012-07-24T20:19:10Z" uid="38588"
+         user="mentor"
+         changeset="12475286"
+         lat="51.6939393"
+         lon="-4.938021">
+      <tag k="name" v="Pembroke Dock"/>
+      <tag k="name:cy" v="Doc Penfro"/>
+      <tag k="name:en" v="Pembroke Dock"/>
+      <tag k="naptan:AtcoCode" v="9100PEMBRKD"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="29669507" version="8" timestamp="2012-05-15T19:16:08Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.1849411"
+         lon="-3.0319354">
+      <tag k="name" v="Hawarden"/>
+      <tag k="name:cy" v="Penarlâg"/>
+      <tag k="naptan:AtcoCode" v="9100HAWARDN"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="30942049" version="6" timestamp="2012-05-04T15:43:34Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.4404606"
+         lon="-3.1816494">
+      <tag k="name" v="Dingle Road"/>
+      <tag k="naptan:AtcoCode" v="9100DGLROAD"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="30942157" version="6" timestamp="2012-05-15T19:28:29Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.4457572"
+         lon="-3.1893716">
+      <tag k="name" v="Cogan"/>
+      <tag k="naptan:AtcoCode" v="9100COGAN"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="30942503" version="6" timestamp="2012-05-15T19:28:27Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.4378461"
+         lon="-3.2062133">
+      <tag k="name" v="Eastbrook"/>
+      <tag k="naptan:AtcoCode" v="9100EASTBRK"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="30942508" version="6" timestamp="2012-05-15T19:28:28Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.4314135"
+         lon="-3.2187555">
+      <tag k="name" v="Dinas Powys"/>
+      <tag k="naptan:AtcoCode" v="9100DINASP"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="30946404" version="10" timestamp="2012-05-04T15:43:33Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.4673364"
+         lon="-3.1667077">
+      <tag k="name" v="Cardiff Bay"/>
+      <tag k="name:cy" v="Bae Caerdydd"/>
+      <tag k="naptan:AtcoCode" v="9100CARDFBR"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="old_name" v="Cardiff Bute Road"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="CDB"/>
+  </node>
+   <node id="31098192" version="12" timestamp="2012-05-15T19:28:23Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.5409669"
+         lon="-3.2635961">
+      <tag k="name" v="Taffs Well"/>
+      <tag k="name:cy" v="Ffynnon Taf"/>
+      <tag k="naptan:AtcoCode" v="9100TAFFSWL"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="31098230" version="9" timestamp="2012-05-15T19:28:22Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.5681482"
+         lon="-3.2902676">
+      <tag k="name" v="Trefforest Estate"/>
+      <tag k="name:cy" v="Ystad Trefforest"/>
+      <tag k="naptan:AtcoCode" v="9100TRFRSTE"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="TRE"/>
+  </node>
+   <node id="31098261" version="8" timestamp="2012-05-15T19:28:21Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.5919337"
+         lon="-3.3249531">
+      <tag k="name" v="Trefforest"/>
+      <tag k="naptan:AtcoCode" v="9100TREFRST"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="TRF"/>
+  </node>
+   <node id="31098278" version="7" timestamp="2012-05-15T19:28:25Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.5992717"
+         lon="-3.3418673">
+      <tag k="name" v="Pontypridd"/>
+      <tag k="naptan:AtcoCode" v="9100PTYPRID"/>
+      <tag k="old_name" v="Newbridge"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PPD"/>
+  </node>
+   <node id="31563410" version="8" timestamp="2012-05-15T19:28:24Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.5167469"
+         lon="-3.2493659">
+      <tag k="name" v="Radyr"/>
+      <tag k="name:cy" v="Radur"/>
+      <tag k="naptan:AtcoCode" v="9100RADYR"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="32547313" version="6" timestamp="2012-05-04T15:43:35Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.6099025"
+         lon="-3.6559707">
+      <tag k="name" v="Maesteg"/>
+      <tag k="naptan:AtcoCode" v="9100MAESTGW"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="MST"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Maesteg_railway_station"/>
+  </node>
+   <node id="32547323" version="7" timestamp="2012-05-04T15:43:34Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.5956785"
+         lon="-3.6406098">
+      <tag k="name" v="Garth"/>
+      <tag k="naptan:AtcoCode" v="9100GRTHMG"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="32547362" version="8" timestamp="2012-05-04T15:43:39Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.5202656"
+         lon="-3.5801994">
+      <tag k="name" v="Wildmill"/>
+      <tag k="name:cy" v="Melin Wyllt"/>
+      <tag k="naptan:AtcoCode" v="9100WLDMILL"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="33821571" version="5" timestamp="2012-10-03T01:07:24Z" uid="4951"
+         user="PeterIto"
+         changeset="13341937"
+         lat="52.3760548"
+         lon="-3.8545939">
+      <tag k="name" v="Devil's Bridge"/>
+      <tag k="note" v="name of narby village"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="33821952" version="22" timestamp="2010-05-20T19:02:13Z" uid="17427"
+         user="dysteleologist"
+         changeset="4760340"
+         lat="52.4061797"
+         lon="-4.0623685">
+      <tag k="name" v="Llanbadarn"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE;OS_OpenData_Streetview"/>
+  </node>
+   <node id="36165348" version="8" timestamp="2012-05-15T19:31:06Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.0923948"
+         lon="-3.8005304">
+      <tag k="name" v="Betws-y-Coed"/>
+      <tag k="naptan:AtcoCode" v="9100BETSYCD"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="36165464" version="9" timestamp="2012-05-15T19:29:38Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.1391927"
+         lon="-3.7948387">
+      <tag k="name" v="Llanrwst"/>
+      <tag k="naptan:AtcoCode" v="9100LNRWST"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LWR"/>
+  </node>
+   <node id="36165477" version="12" timestamp="2012-05-15T19:29:21Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.1439719"
+         lon="-3.8026655">
+      <tag k="name" v="North Llanrwst"/>
+      <tag k="name:cy" v="Gogledd Llanrwst"/>
+      <tag k="naptan:AtcoCode" v="9100NLANRST"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="old_name" v="Llanrwst"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="NLR"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="36165504" version="9" timestamp="2012-05-15T19:30:31Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.1864748"
+         lon="-3.8235867">
+      <tag k="name" v="Dolgarrog"/>
+      <tag k="naptan:AtcoCode" v="9100DOLGARG"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="36165737" version="11" timestamp="2012-05-15T19:28:54Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.2284216"
+         lon="-3.8183825">
+      <tag k="name" v="Tal-y-Cafn"/>
+      <tag k="naptan:AtcoCode" v="9100TALYCFN"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="old_name" v="Tal-y-Cafn and Eglwysbach"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="46889287" version="2" timestamp="2010-05-16T21:12:52Z" uid="17427"
+         user="dysteleologist"
+         changeset="4722721"
+         lat="53.106062"
+         lon="-4.2014352">
+      <tag k="name" v="Waunfawr"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="46928642" version="5" timestamp="2010-05-16T21:14:48Z" uid="17427"
+         user="dysteleologist"
+         changeset="4722721"
+         lat="53.1379326"
+         lon="-4.2728356">
+      <tag k="name" v="Caernarfon"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="49363709" version="6" timestamp="2012-05-15T19:27:49Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.8208552"
+         lon="-4.003647">
+      <tag k="name" v="Llandybie"/>
+      <tag k="naptan:AtcoCode" v="9100LLDYBIE"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="60141214" version="10" timestamp="2012-05-15T19:16:00Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.1426947"
+         lon="-3.054825">
+      <tag k="name" v="Penyffordd"/>
+      <tag k="naptan:AtcoCode" v="9100PNYF"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="67073064" version="8" timestamp="2012-05-15T19:15:45Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.6570903"
+         lon="-3.0159856">
+      <tag k="name" v="Cwmbran"/>
+      <tag k="name:cy" v="Cwmbrân"/>
+      <tag k="naptan:AtcoCode" v="9100CWMBRAN"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="67073125" version="9" timestamp="2012-05-15T19:25:44Z" uid="165"
+         user="Richard"
+         changeset="11608108"
+         lat="51.6970822"
+         lon="-3.0139254">
+      <tag k="name" v="Pontypool and New Inn"/>
+      <tag k="name:cy" v="Pont-y-pŵl a New Inn"/>
+      <tag k="naptan:AtcoCode" v="9100PONTYPL"/>
+      <tag k="old_name" v="Pontypool Road"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PPL"/>
+  </node>
+   <node id="67073188" version="2" timestamp="2009-08-18T15:33:26Z" uid="24256"
+         user="oglord"
+         changeset="2190686"
+         lat="51.749059"
+         lon="-2.9704709">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="67073274" version="8" timestamp="2012-05-15T19:25:49Z" uid="165"
+         user="Richard"
+         changeset="11608108"
+         lat="51.8171063"
+         lon="-3.0089734">
+      <tag k="name" v="Abergavenny"/>
+      <tag k="name:cy" v="Y Fenni"/>
+      <tag k="naptan:AtcoCode" v="9100ABRGVNY"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="AGV"/>
+  </node>
+   <node id="67073590" version="3" timestamp="2011-12-20T14:06:06Z" uid="24256"
+         user="oglord"
+         changeset="10163815"
+         lat="51.99867"
+         lon="-2.7821382">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Tram Inn"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="79957460" version="8" timestamp="2012-05-15T19:27:38Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7167286"
+         lon="-4.045868">
+      <tag k="name" v="Pontarddulais"/>
+      <tag k="naptan:AtcoCode" v="9100PNTADLS"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="90454459" version="9" timestamp="2012-05-15T19:27:57Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5172032"
+         lon="-3.181626">
+      <tag k="name" v="Heath High Level"/>
+      <tag k="naptan:AtcoCode" v="9100HEATHHL"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Heath_High_Level_railway_station"/>
+  </node>
+   <node id="90455818" version="8" timestamp="2012-05-15T19:28:09Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5753928"
+         lon="-3.2301216">
+      <tag k="name" v="Aber"/>
+      <tag k="naptan:AtcoCode" v="9100ABER"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="90455839" version="8" timestamp="2012-05-15T19:27:50Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6041152"
+         lon="-3.2330269">
+      <tag k="name" v="Llanbradach"/>
+      <tag k="naptan:AtcoCode" v="9100LLBRDCH"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="98061707" version="3" timestamp="2011-02-27T22:19:13Z" uid="364"
+         user="Edward"
+         changeset="7416096"
+         lat="51.564714"
+         lon="-3.2654879">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="105675222" version="5" timestamp="2012-05-15T19:28:03Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.1502435"
+         lon="-3.4574859">
+      <tag k="name" v="Cilmeri"/>
+      <tag k="naptan:AtcoCode" v="9100CILMERY"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="CIM"/>
+  </node>
+   <node id="105688986" version="5" timestamp="2012-05-15T19:28:00Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.2948359"
+         lon="-3.263734">
+      <tag k="name" v="Dolau"/>
+      <tag k="naptan:AtcoCode" v="9100DOLAU"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="DOL"/>
+  </node>
+   <node id="105693546" version="6" timestamp="2012-07-14T02:06:20Z" uid="722137"
+         user="OSMF Redaction Account"
+         changeset="12213376"
+         lat="52.3571708"
+         lon="-2.9484163">
+      <tag k="name" v="Bucknell"/>
+      <tag k="naptan:AtcoCode" v="9100BKNELL"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BUK"/>
+  </node>
+   <node id="105712447" version="7" timestamp="2012-05-15T19:15:59Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.3362293"
+         lon="-3.4073552">
+      <tag k="name" v="Prestatyn"/>
+      <tag k="naptan:AtcoCode" v="9100PSTA"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="113520884" version="4" timestamp="2012-05-04T15:43:33Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.6140394"
+         lon="-3.8090189">
+      <tag k="name" v="Baglan"/>
+      <tag k="naptan:AtcoCode" v="9100BGLAN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="114061125" version="7" timestamp="2012-05-15T19:28:20Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.61"
+         lon="-3.3804267">
+      <tag k="name" v="Trehafod"/>
+      <tag k="naptan:AtcoCode" v="9100TREHAFD"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="114065930" version="7" timestamp="2012-05-15T19:28:24Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6124585"
+         lon="-3.4076457">
+      <tag k="name" v="Porth"/>
+      <tag k="name:cy" v="Y Porth"/>
+      <tag k="naptan:AtcoCode" v="9100PORH"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="114072884" version="5" timestamp="2012-05-15T19:28:28Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6173884"
+         lon="-3.4371715">
+      <tag k="name" v="Dinas Rhondda"/>
+      <tag k="naptan:AtcoCode" v="9100DINASR"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="DMG"/>
+  </node>
+   <node id="114072896" version="6" timestamp="2012-05-15T19:28:22Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6197665"
+         lon="-3.4490269">
+      <tag k="name" v="Tonypandy"/>
+      <tag k="naptan:AtcoCode" v="9100TNYPNDY"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="TNP"/>
+  </node>
+   <node id="114072903" version="5" timestamp="2012-05-15T19:28:26Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6340794"
+         lon="-3.4533291">
+      <tag k="name" v="Llwynypia"/>
+      <tag k="naptan:AtcoCode" v="9100LLWYNYP"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LLY"/>
+  </node>
+   <node id="114072914" version="6" timestamp="2012-05-15T19:28:18Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6434812"
+         lon="-3.4665363">
+      <tag k="name" v="Ystrad Rhondda"/>
+      <tag k="naptan:AtcoCode" v="9100YTRHOND"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="YSR"/>
+  </node>
+   <node id="114072925" version="6" timestamp="2012-05-15T19:28:23Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.647702"
+         lon="-3.4861594">
+      <tag k="name" v="Ton Pentre"/>
+      <tag k="naptan:AtcoCode" v="9100TONPNTR"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="TPN"/>
+  </node>
+   <node id="114081247" version="6" timestamp="2012-05-15T19:28:19Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6574072"
+         lon="-3.5060614">
+      <tag k="name" v="Treorchy"/>
+      <tag k="name:cy" v="Treorci"/>
+      <tag k="naptan:AtcoCode" v="9100TREORCY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="114081256" version="6" timestamp="2012-05-15T19:28:20Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6721007"
+         lon="-3.5361987">
+      <tag k="name" v="Treherbert"/>
+      <tag k="naptan:AtcoCode" v="9100TREHRBT"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="TRB"/>
+  </node>
+   <node id="122069461" version="10" timestamp="2012-05-15T19:28:14Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.7445822"
+         lon="-3.3774057">
+      <tag k="name" v="Merthyr Tydfil"/>
+      <tag k="name:cy" v="Merthyr Tudful"/>
+      <tag k="naptan:AtcoCode" v="9100MERTHYR"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="MER"/>
+      <tag k="wikipedia" v="Merthyr_Tydfil_railway_station"/>
+  </node>
+   <node id="122077041" version="8" timestamp="2012-05-15T19:28:12Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.7246787"
+         lon="-3.3620859">
+      <tag k="name" v="Pentre-bach"/>
+      <tag k="naptan:AtcoCode" v="9100PNTRBCH"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PTB"/>
+  </node>
+   <node id="122080936" version="7" timestamp="2012-05-15T19:28:11Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.7119899"
+         lon="-3.3463145">
+      <tag k="name" v="Troed-y-rhiw"/>
+      <tag k="naptan:AtcoCode" v="9100TRDYRHW"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="TRD"/>
+  </node>
+   <node id="122098365" version="8" timestamp="2012-05-15T19:28:14Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.6864554"
+         lon="-3.3370019">
+      <tag k="name" v="Merthyr Vale"/>
+      <tag k="name:cy" v="Ynysowen"/>
+      <tag k="naptan:AtcoCode" v="9100MERTHRV"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="MEV"/>
+  </node>
+   <node id="122098437" version="9" timestamp="2012-05-15T19:28:12Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.6604938"
+         lon="-3.3234406">
+      <tag k="alt_name" v="Quakers Yard"/>
+      <tag k="name" v="Quaker's Yard"/>
+      <tag k="name:cy" v="Mynwent-y-Crynwyr"/>
+      <tag k="naptan:AtcoCode" v="9100QUAKRSY"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="QYD"/>
+  </node>
+   <node id="122123719" version="14" timestamp="2012-05-15T19:28:16Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.6430935"
+         lon="-3.3296312">
+      <tag k="name" v="Abercynon"/>
+      <tag k="naptan:AtcoCode" v="9100ABRCYNS"/>
+      <tag k="old_name" v="Abercynon South"/>
+      <tag k="old_name:cy" v="De Abercynon"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="ACY"/>
+  </node>
+   <node id="122137367" version="10" timestamp="2012-05-15T19:28:12Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.6699833"
+         lon="-3.3597685">
+      <tag k="name" v="Penrhiwceiber"/>
+      <tag k="naptan:AtcoCode" v="9100PNRHCBR"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PER"/>
+      <tag k="start_date" v="1988"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Penrhiwceiber_railway_station"/>
+  </node>
+   <node id="122234667" version="9" timestamp="2012-05-15T19:28:15Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.6865551"
+         lon="-3.3957852">
+      <tag k="name" v="Fernhill"/>
+      <tag k="naptan:AtcoCode" v="9100FERNHIL"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="FER"/>
+  </node>
+   <node id="122362903" version="9" timestamp="2012-05-15T19:28:15Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.7014653"
+         lon="-3.4147645">
+      <tag k="name" v="Cwmbach"/>
+      <tag k="naptan:AtcoCode" v="9100CMBH"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="CMH"/>
+  </node>
+   <node id="122362926" version="8" timestamp="2012-05-15T19:28:16Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.7145226"
+         lon="-3.4418333">
+      <tag k="name" v="Aberdare"/>
+      <tag k="name:cy" v="Aberdâr"/>
+      <tag k="naptan:AtcoCode" v="9100ABDARE"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="ABA"/>
+  </node>
+   <node id="123360628" version="10" timestamp="2012-05-15T19:15:34Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.5954576"
+         lon="-3.0662702">
+      <tag k="name" v="Rogerstone"/>
+      <tag k="name:cy" v="Tŷ-du"/>
+      <tag k="naptan:AtcoCode" v="9100ROGRSTN"/>
+      <tag k="postal_code" v="NP10 9LG"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="ROR"/>
+  </node>
+   <node id="123360654" version="3" timestamp="2011-08-24T14:32:50Z" uid="24256"
+         user="oglord"
+         changeset="9113062"
+         lat="51.6086041"
+         lon="-3.0992328">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Risca"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="135609626" version="2" timestamp="2009-03-31T15:57:30Z" uid="508"
+         user="Welshie"
+         changeset="872055"
+         lat="52.623193"
+         lon="-3.8423941">
+      <tag k="created_by" v="JOSM"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="135609631" version="3" timestamp="2010-12-14T14:09:46Z" uid="508"
+         user="Welshie"
+         changeset="6658703"
+         lat="52.6230914"
+         lon="-3.8416947">
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="137734387" version="8" timestamp="2012-05-15T19:28:04Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5715595"
+         lon="-3.2187733">
+      <tag k="name" v="Caerphilly"/>
+      <tag k="naptan:AtcoCode" v="9100CRPHLY"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="166139879" version="9" timestamp="2012-05-15T19:15:42Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.756519"
+         lon="-3.1960809">
+      <tag k="name" v="Ebbw Vale Parkway"/>
+      <tag k="name:cy" v="Parcffordd Glyn Ebwy"/>
+      <tag k="naptan:AtcoCode" v="9100EBWVPWY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="166139881" version="3" timestamp="2011-11-05T18:47:59Z" uid="30525"
+         user="The Maarssen Mapper"
+         changeset="9749267"
+         lat="51.7559802"
+         lon="-3.1960463">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Victoria"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="166139931" version="2" timestamp="2009-08-16T17:55:48Z" uid="24256"
+         user="oglord"
+         changeset="2167941"
+         lat="51.7097599"
+         lon="-3.1447721">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Aberbeeg"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="166139958" version="6" timestamp="2012-05-15T19:15:39Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.700212"
+         lon="-3.136704">
+      <tag k="name" v="Llanhilleth"/>
+      <tag k="name:cy" v="Llanhiledd"/>
+      <tag k="name:en" v="Llanhilleth"/>
+      <tag k="naptan:AtcoCode" v="9100LLHLETH"/>
+      <tag k="postal_code" v="NP13 2HT"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LTH"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="166140001" version="3" timestamp="2010-06-30T12:55:59Z" uid="24256"
+         user="oglord"
+         changeset="5113343"
+         lat="51.6783072"
+         lon="-3.1392713">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Crumlin Low Level"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="166140022" version="9" timestamp="2012-05-15T19:15:38Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.6646891"
+         lon="-3.1434115">
+      <tag k="name" v="Newbridge"/>
+      <tag k="name:cy" v="Trecelyn"/>
+      <tag k="naptan:AtcoCode" v="9100NBRWGE"/>
+      <tag k="postal_code" v="NP11 5FH"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="NBE"/>
+      <tag k="source" v="NPE"/>
+      <tag k="wikipedia" v="Newbridge (Caerphilly) railway station"/>
+  </node>
+   <node id="166160185" version="8" timestamp="2012-05-15T19:15:45Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.620739"
+         lon="-3.125862">
+      <tag k="name" v="Crosskeys"/>
+      <tag k="naptan:AtcoCode" v="9100CRSKEYS"/>
+      <tag k="postal_code" v="NP11 7BU"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="CKY"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="175407974" version="5" timestamp="2012-05-15T19:28:19Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.6653534"
+         lon="-3.5223799">
+      <tag k="name" v="Ynyswen"/>
+      <tag k="naptan:AtcoCode" v="9100YNYSWEN"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="YNW"/>
+  </node>
+   <node id="178636447" version="10" timestamp="2012-05-15T19:27:31Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6405449"
+         lon="-3.2418192">
+      <tag k="name" v="Ystrad Mynach"/>
+      <tag k="naptan:AtcoCode" v="9100YSTRADM"/>
+      <tag k="postal_code" v="CF82 7BP"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="YSM"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="178636518" version="10" timestamp="2012-05-15T19:27:56Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6468964"
+         lon="-3.2256743">
+      <tag k="name" v="Hengoed"/>
+      <tag k="naptan:AtcoCode" v="9100HENGOED"/>
+      <tag k="postal_code" v="CF82 7LT"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="HNG"/>
+      <tag k="source" v="visual_estimate"/>
+  </node>
+   <node id="178636554" version="8" timestamp="2012-05-15T19:27:39Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6700773"
+         lon="-3.2300863">
+      <tag k="name" v="Pengam"/>
+      <tag k="naptan:AtcoCode" v="9100PENGAM"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="178645095" version="7" timestamp="2012-05-15T19:27:58Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6843943"
+         lon="-3.2274578">
+      <tag k="name" v="Gilfach Fargoed"/>
+      <tag k="naptan:AtcoCode" v="9100GLFCHFR"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="178645110" version="8" timestamp="2012-05-15T19:28:08Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.6928427"
+         lon="-3.2299154">
+      <tag k="name" v="Bargoed"/>
+      <tag k="naptan:AtcoCode" v="9100BARGOED"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="178645145" version="8" timestamp="2012-05-15T19:28:06Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7103488"
+         lon="-3.2283053">
+      <tag k="name" v="Brithdir"/>
+      <tag k="naptan:AtcoCode" v="9100BRITHDR"/>
+      <tag k="postal_code" v="NP24 6XY"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BHD"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="178645168" version="7" timestamp="2012-05-15T19:27:34Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7210308"
+         lon="-3.2460723">
+      <tag k="name" v="Tir-Phil"/>
+      <tag k="naptan:AtcoCode" v="9100TIRPHIL"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="178645212" version="9" timestamp="2012-05-15T19:27:38Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7465343"
+         lon="-3.2793211">
+      <tag k="name" v="Pontlottyn"/>
+      <tag k="naptan:AtcoCode" v="9100PNTLTYN"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="178645233" version="10" timestamp="2012-05-15T19:27:36Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.7588014"
+         lon="-3.2894819">
+      <tag k="name" v="Rhymney"/>
+      <tag k="naptan:AtcoCode" v="9100RHYMNEY"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="206134283" version="10" timestamp="2012-05-15T19:16:19Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.2945866"
+         lon="-3.5826531">
+      <tag k="name" v="Abergele and Pensarn"/>
+      <tag k="name:cy" v="Abergele a Phensarn"/>
+      <tag k="name:en" v="Abergele and Pensarn"/>
+      <tag k="naptan:AtcoCode" v="9100ABGLELE"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="206161994" version="7" timestamp="2012-05-15T19:30:41Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.280096"
+         lon="-3.8306652">
+      <tag k="name" v="Conwy"/>
+      <tag k="naptan:AtcoCode" v="9100CONWY"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="207291800" version="8" timestamp="2012-05-15T19:16:17Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.1625095"
+         lon="-3.0551176">
+      <tag k="name" v="Buckley"/>
+      <tag k="name:cy" v="Bwcle"/>
+      <tag k="naptan:AtcoCode" v="9100BCKY"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="210961505" version="9" timestamp="2012-05-15T19:30:16Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.2686168"
+         lon="-3.7976561">
+      <tag k="name" v="Glan Conwy"/>
+      <tag k="naptan:AtcoCode" v="9100GLNCNWY"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="244010099" version="5" timestamp="2012-05-15T19:27:45Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5332742"
+         lon="-3.1817734">
+      <tag k="name" v="Llanishen"/>
+      <tag k="naptan:AtcoCode" v="9100LLISHEN"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="244321611" version="9" timestamp="2012-05-15T19:28:23Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.387168"
+         lon="-3.3508371">
+      <tag k="alt_name" v="Rhoose"/>
+      <tag k="name" v="Rhoose Cardiff International Airport"/>
+      <tag k="name:cy" v="Maes Awyr Rhyngwladol Caerdydd Y Rhws"/>
+      <tag k="naptan:AtcoCode" v="9100RHOOSE"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="RIA"/>
+  </node>
+   <node id="244321639" version="10" timestamp="2012-05-15T19:28:31Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.3968491"
+         lon="-3.2846891">
+      <tag k="name" v="Barry"/>
+      <tag k="name:cy" v="Y Barri"/>
+      <tag k="naptan:AtcoCode" v="9100BARRY"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BRY"/>
+  </node>
+   <node id="244321646" version="10" timestamp="2012-05-15T19:28:33Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.4023618"
+         lon="-3.2619744">
+      <tag k="name" v="Barry Docks"/>
+      <tag k="name:cy" v="Dociau'r Barri"/>
+      <tag k="naptan:AtcoCode" v="9100BARRYDK"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BYD"/>
+  </node>
+   <node id="244321649" version="10" timestamp="2012-05-15T19:28:30Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.4122544"
+         lon="-3.2486691">
+      <tag k="name" v="Cadoxton"/>
+      <tag k="name:cy" v="Tregatwg"/>
+      <tag k="naptan:AtcoCode" v="9100CADOXTN"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="244325805" version="8" timestamp="2012-05-15T19:28:26Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.40962"
+         lon="-3.4813864">
+      <tag k="name" v="Llantwit Major"/>
+      <tag k="name:cy" v="Llanilltud Fawr"/>
+      <tag k="naptan:AtcoCode" v="9100LLNWTMR"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="LWM"/>
+  </node>
+   <node id="246527118" version="7" timestamp="2012-05-15T19:15:42Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.4939552"
+         lon="-3.233817">
+      <tag k="name" v="Fairwater"/>
+      <tag k="name:cy" v="Y Tyllgoed"/>
+      <tag k="naptan:AtcoCode" v="9100FRWATER"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="246527344" version="6" timestamp="2012-05-15T19:15:37Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.4766442"
+         lon="-3.2017044">
+      <tag k="name" v="Ninian Park"/>
+      <tag k="name:cy" v="Parc Ninian"/>
+      <tag k="naptan:AtcoCode" v="9100NINIANP"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="246683913" version="7" timestamp="2012-05-15T19:28:32Z" uid="165"
+         user="Richard"
+         changeset="11608140"
+         lat="51.3924222"
+         lon="-3.2738011">
+      <tag k="name" v="Barry Island"/>
+      <tag k="name:cy" v="Ynys y Barri"/>
+      <tag k="naptan:AtcoCode" v="9100BARRYIS"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="252839621" version="3" timestamp="2008-03-19T04:40:16Z" uid="12671"
+         user="sladen"
+         changeset="350017"
+         lat="51.3987029"
+         lon="-3.2803339">
+      <tag k="name" v="Waterfront"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="252839639" version="3" timestamp="2010-05-10T18:39:06Z" uid="112997"
+         user="sobbomapper"
+         changeset="4662128"
+         lat="51.3937342"
+         lon="-3.2686467">
+      <tag k="name" v="Plymouth Road"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="252847492" version="6" timestamp="2012-05-04T21:52:06Z" uid="452299"
+         user="nsmith"
+         changeset="11502702"
+         lat="52.5853133"
+         lon="-4.0932775">
+      <tag k="name" v="Tywyn"/>
+      <tag k="naptan:AtcoCode" v="9100TYWYN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="252858121" version="5" timestamp="2012-05-15T19:28:02Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5204435"
+         lon="-3.2306549">
+      <tag k="name" v="Coryton"/>
+      <tag k="naptan:AtcoCode" v="9100CORYTON"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="252858122" version="7" timestamp="2012-05-15T19:27:33Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5207912"
+         lon="-3.2231411">
+      <tag k="name" v="Whitchurch"/>
+      <tag k="naptan:AtcoCode" v="9100WHCH"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="wikipedia"
+           v="http://en.wikipedia.org/wiki/Whitchurch_%28Glamorgan%29_railway_station"/>
+  </node>
+   <node id="252858123" version="6" timestamp="2012-05-15T19:27:37Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5210847"
+         lon="-3.2139401">
+      <tag k="name" v="Rhiwbina"/>
+      <tag k="naptan:AtcoCode" v="9100RHIWBNA"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Rhiwbina_railway_station"/>
+  </node>
+   <node id="252858124" version="6" timestamp="2012-05-15T19:28:07Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5213209"
+         lon="-3.2037777">
+      <tag k="name" v="Birchgrove"/>
+      <tag k="naptan:AtcoCode" v="9100BCHGRV"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Birchgrove_railway_station"/>
+  </node>
+   <node id="252858131" version="9" timestamp="2012-05-15T19:27:56Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5158209"
+         lon="-3.1822797">
+      <tag k="name" v="Heath Low Level"/>
+      <tag k="naptan:AtcoCode" v="9100HEATHLL"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Heath_Low_Level_railway_station"/>
+  </node>
+   <node id="253311327" version="5" timestamp="2012-05-15T19:15:44Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.5005965"
+         lon="-3.2338405">
+      <tag k="name" v="Danescourt"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="Yahoo imargery"/>
+  </node>
+   <node id="253324518" version="6" timestamp="2012-05-15T19:27:52Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5442862"
+         lon="-3.1856278">
+      <tag k="name" v="Lisvane and Thornhill"/>
+      <tag k="naptan:AtcoCode" v="9100LTHH"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="Yahoo imagery"/>
+  </node>
+   <node id="253998438" version="3" timestamp="2011-05-08T15:10:49Z" uid="364"
+         user="Edward"
+         changeset="8083678"
+         lat="53.3773473"
+         lon="-4.3925078">
+      <tag k="disused" v="yes"/>
+      <tag k="end_date" v="1964-12-05"/>
+      <tag k="name" v="Rhosgoch"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="Bing"/>
+      <tag k="start_date" v="1867"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Rhosgoch_railway_station"/>
+  </node>
+   <node id="253998465" version="4" timestamp="2011-05-08T15:10:48Z" uid="364"
+         user="Edward"
+         changeset="8083678"
+         lat="53.3297213"
+         lon="-4.378977">
+      <tag k="disused" v="yes"/>
+      <tag k="end_date" v="1964-12-05"/>
+      <tag k="name" v="Llanerchymedd"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="Bing"/>
+      <tag k="start_date" v="1866"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Llanerchymedd_railway_station"/>
+  </node>
+   <node id="254398157" version="4" timestamp="2012-04-12T13:41:04Z" uid="24256"
+         user="oglord"
+         changeset="11276577"
+         lat="53.0001577"
+         lon="-4.2830385">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Pant Glas"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="254584303" version="4" timestamp="2012-04-12T13:44:32Z" uid="24256"
+         user="oglord"
+         changeset="11276577"
+         lat="53.078275"
+         lon="-4.2813112">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Groeslon"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="255133585" version="9" timestamp="2012-05-15T19:29:05Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.0443939"
+         lon="-3.9214981">
+      <tag k="name" v="Roman Bridge"/>
+      <tag k="name:cy" v="Pont Rufeinig"/>
+      <tag k="naptan:AtcoCode" v="9100ROMANBG"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="RMB"/>
+  </node>
+   <node id="255134714" version="9" timestamp="2012-05-15T19:30:31Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.0516239"
+         lon="-3.8840651">
+      <tag k="name" v="Dolwyddelan"/>
+      <tag k="naptan:AtcoCode" v="9100DLWYDLN"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="DWD"/>
+  </node>
+   <node id="255166300" version="8" timestamp="2012-05-15T19:29:10Z" uid="165"
+         user="Richard"
+         changeset="11608146"
+         lat="53.0650745"
+         lon="-3.8627791">
+      <tag k="name" v="Pont-y-Pant"/>
+      <tag k="naptan:AtcoCode" v="9100PNYPANT"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="PYP"/>
+  </node>
+   <node id="255383858" version="5" timestamp="2012-05-04T15:43:36Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.4358271"
+         lon="-3.1746076">
+      <tag k="name" v="Penarth"/>
+      <tag k="naptan:AtcoCode" v="9100PENARTH"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="wheelchair" v="yes"/>
+  </node>
+   <node id="256427347" version="5" timestamp="2012-05-04T15:43:37Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.5386312"
+         lon="-3.5895817">
+      <tag k="name" v="Sarn"/>
+      <tag k="naptan:AtcoCode" v="9100SARN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="SRR"/>
+  </node>
+   <node id="256427348" version="7" timestamp="2012-05-04T15:43:35Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.6052552"
+         lon="-3.6482391">
+      <tag k="name" v="Maesteg Ewenny Road"/>
+      <tag k="name:cy" v="Maesteg Heol Ewenni"/>
+      <tag k="naptan:AtcoCode" v="9100MAESTER"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="MEW"/>
+      <tag k="wikipedia"
+           v="http://en.wikipedia.org/wiki/Maesteg_(Ewenny_Road)_railway_station"/>
+  </node>
+   <node id="256557677" version="10" timestamp="2012-07-24T18:51:55Z" uid="359193"
+         user="JeffH"
+         changeset="12473740"
+         lat="52.9947059"
+         lon="-3.9385096">
+      <tag k="name" v="Blaenau Ffestiniog"/>
+      <tag k="name:ru" v="Блайнай-Фестиниог"/>
+      <tag k="network" v="Nation Rail"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="BFF"/>
+  </node>
+   <node id="256695073" version="7" timestamp="2012-05-15T19:15:34Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.605635"
+         lon="-3.091599">
+      <tag k="name" v="Risca and Pontymister"/>
+      <tag k="name:cy" v="Rhisga a Phont-y-meistr"/>
+      <tag k="naptan:AtcoCode" v="9100RISCA"/>
+      <tag k="postal_code" v="NP11 6BB"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="RCA"/>
+  </node>
+   <node id="256696262" version="5" timestamp="2012-05-15T19:27:33Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.5216349"
+         lon="-3.1965038">
+      <tag k="name" v="Ty Glas"/>
+      <tag k="naptan:AtcoCode" v="9100TYGLAS"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="TGS"/>
+  </node>
+   <node id="257043647" version="10" timestamp="2012-07-29T13:32:33Z" uid="359193"
+         user="JeffH"
+         changeset="12535058"
+         lat="52.9308899"
+         lon="-4.1323559">
+      <tag k="name" v="Porthmadog (WHHR)"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="257043653" version="24" timestamp="2011-04-28T22:01:57Z" uid="3560"
+         user="Firefishy"
+         changeset="7999199"
+         lat="52.9341693"
+         lon="-4.1239534">
+      <tag k="name" v="Pen-y-Mount"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="257808520" version="3" timestamp="2011-07-19T14:27:20Z" uid="508"
+         user="Welshie"
+         changeset="8769013"
+         lat="51.7463943"
+         lon="-3.6059663">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="257811178" version="5" timestamp="2011-11-27T18:28:31Z" uid="439547"
+         user="Jay456"
+         changeset="9969447"
+         lat="51.7462534"
+         lon="-3.3223165">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Cwmbargoed"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="257811224" version="3" timestamp="2011-11-27T18:28:33Z" uid="439547"
+         user="Jay456"
+         changeset="9969447"
+         lat="51.7025117"
+         lon="-3.3125391">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Bedlinog"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="257811230" version="4" timestamp="2011-11-27T18:28:33Z" uid="439547"
+         user="Jay456"
+         changeset="9969447"
+         lat="51.6688992"
+         lon="-3.2957138">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="257811232" version="4" timestamp="2011-11-27T18:28:33Z" uid="439547"
+         user="Jay456"
+         changeset="9969447"
+         lat="51.6571345"
+         lon="-3.2870303">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="258586868" version="10" timestamp="2011-09-12T13:46:31Z" uid="505740"
+         user="Hilary Phillips"
+         changeset="9280319"
+         lat="52.583617"
+         lon="-4.0888228">
+      <tag k="name" v="Tywyn Wharf"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="258586870" version="9" timestamp="2011-08-16T20:53:18Z" uid="505740"
+         user="Hilary Phillips"
+         changeset="9042554"
+         lat="52.5872348"
+         lon="-4.081217">
+      <tag k="name" v="Pendre"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="258586880" version="7" timestamp="2011-08-16T21:59:53Z" uid="505740"
+         user="Hilary Phillips"
+         changeset="9043108"
+         lat="52.5998215"
+         lon="-4.0461697">
+      <tag k="name" v="Rhydyronen"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="258586885" version="9" timestamp="2012-02-29T20:57:29Z" uid="8359"
+         user="john202"
+         changeset="10832213"
+         lat="52.6084047"
+         lon="-4.0271319">
+      <tag k="name" v="Brynglas"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="258586923" version="12" timestamp="2012-02-29T20:57:29Z" uid="8359"
+         user="john202"
+         changeset="10832213"
+         lat="52.6386287"
+         lon="-3.9659472">
+      <tag k="name" v="Abergynolwyn"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE;Wikipedia article on Tallylyn"/>
+  </node>
+   <node id="258591380" version="7" timestamp="2012-07-31T15:10:28Z" uid="359193"
+         user="JeffH"
+         changeset="12562739"
+         lat="52.6956743"
+         lon="-4.050103">
+      <tag k="name" v="Fairbourne"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="OS OpenData StreetView"/>
+  </node>
+   <node id="258593969" version="10" timestamp="2012-10-03T01:09:10Z" uid="4951"
+         user="PeterIto"
+         changeset="13341945"
+         lat="52.6599039"
+         lon="-3.1597038">
+      <tag k="name" v="Welshpool Raven Square"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="258653345" version="7" timestamp="2012-10-06T03:43:20Z" uid="4951"
+         user="PeterIto"
+         changeset="13380362"
+         lat="51.77786"
+         lon="-3.3644454">
+      <tag k="name" v="Pant"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="258653355" version="6" timestamp="2012-10-06T03:43:21Z" uid="4951"
+         user="PeterIto"
+         changeset="13380362"
+         lat="51.7999527"
+         lon="-3.3606768">
+      <tag k="name" v="Pontsticill"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="258653382" version="7" timestamp="2012-10-06T03:43:21Z" uid="4951"
+         user="PeterIto"
+         changeset="13380362"
+         lat="51.8209227"
+         lon="-3.3683405">
+      <tag k="name" v="Dol-y-gaer"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="262606598" version="5" timestamp="2012-10-06T08:19:09Z" uid="4951"
+         user="PeterIto"
+         changeset="13381808"
+         lat="52.9817358"
+         lon="-3.3146898">
+      <tag k="name" v="Carrog"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="262606609" version="4" timestamp="2012-10-06T08:19:09Z" uid="4951"
+         user="PeterIto"
+         changeset="13381808"
+         lat="52.9765818"
+         lon="-3.2676212">
+      <tag k="name" v="Glyndyfrdwy"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="262606635" version="6" timestamp="2012-10-06T08:19:10Z" uid="4951"
+         user="PeterIto"
+         changeset="13381808"
+         lat="52.9799811"
+         lon="-3.1947469">
+      <tag k="name" v="Berwyn"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="262606648" version="6" timestamp="2012-10-06T08:19:10Z" uid="4951"
+         user="PeterIto"
+         changeset="13381808"
+         lat="52.9713124"
+         lon="-3.1714277">
+      <tag k="name" v="Llangollen"/>
+      <tag k="network" v="Llangollen Railway"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="264051391" version="6" timestamp="2012-05-04T15:43:38Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.5473831"
+         lon="-3.5951351">
+      <tag k="name" v="Tondu"/>
+      <tag k="naptan:AtcoCode" v="9100TONDU"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="264483622" version="8" timestamp="2012-04-11T11:13:56Z" uid="24119"
+         user="Mauls"
+         changeset="11263693"
+         lat="52.9013869"
+         lon="-3.5932111">
+      <tag k="alt_name" v="Bala (Llyn Tegid)"/>
+      <tag k="name" v="Bala (Penybont)"/>
+      <tag k="old_name" v="Bala Lake Halt"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="264483624" version="4" timestamp="2012-04-04T14:23:20Z" uid="4951"
+         user="PeterIto"
+         changeset="11177327"
+         lat="52.8559914"
+         lon="-3.6639785">
+      <tag k="name" v="Llanuwchllyn"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="264483631" version="5" timestamp="2012-04-04T14:23:21Z" uid="4951"
+         user="PeterIto"
+         changeset="11177327"
+         lat="52.8749946"
+         lon="-3.6322534">
+      <tag k="name" v="Llangower"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="287111149" version="8" timestamp="2012-05-15T19:15:56Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.2122941"
+         lon="-3.0385531">
+      <tag k="name" v="Shotton High Level"/>
+      <tag k="naptan:AtcoCode" v="9100SHOTTHL"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="297511174" version="4" timestamp="2012-05-15T19:27:53Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.3600298"
+         lon="-3.0960926">
+      <tag k="name" v="Knucklas"/>
+      <tag k="naptan:AtcoCode" v="9100KNUCKLS"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="KNU"/>
+  </node>
+   <node id="303625734" version="5" timestamp="2011-04-17T22:33:54Z" uid="508"
+         user="Welshie"
+         changeset="7892680"
+         lat="51.8279098"
+         lon="-3.6630244">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Craig-y-Nos"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="306136995" version="7" timestamp="2012-05-15T19:16:13Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.2968508"
+         lon="-3.7259545">
+      <tag k="name" v="Colwyn Bay"/>
+      <tag k="name:cy" v="Bae Colwyn"/>
+      <tag k="naptan:AtcoCode" v="9100CBAY"/>
+      <tag k="odbl" v="clean"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="316206296" version="6" timestamp="2012-05-15T19:27:50Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.8850604"
+         lon="-3.9868379">
+      <tag k="name" v="Llandeilo"/>
+      <tag k="naptan:AtcoCode" v="9100LLDEILO"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="358113806" version="3" timestamp="2012-04-12T13:37:23Z" uid="24256"
+         user="oglord"
+         changeset="11276577"
+         lat="52.9526176"
+         lon="-4.2842037">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Ynys"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="358346848" version="5" timestamp="2012-10-06T03:45:51Z" uid="4951"
+         user="PeterIto"
+         changeset="13380374"
+         lat="52.0419764"
+         lon="-4.4217137">
+      <tag k="name" v="Llandyfriog"/>
+      <tag k="railway" v="station"/>
+      <tag k="status" v="disused"/>
+  </node>
+   <node id="358346852" version="7" timestamp="2012-10-06T03:45:51Z" uid="4951"
+         user="PeterIto"
+         changeset="13380374"
+         lat="52.0415358"
+         lon="-4.4298179">
+      <tag k="name" v="Llandyfriog Glan yr Afon / Llandyfriog Riverside"/>
+      <tag k="name_cy" v="Llandyfriog Glan yr Afon"/>
+      <tag k="name:en" v="Llandyfriog Riverside"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="359555902" version="3" timestamp="2011-04-17T22:33:49Z" uid="508"
+         user="Welshie"
+         changeset="7892680"
+         lat="51.9064196"
+         lon="-3.6072699">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="359555932" version="2" timestamp="2009-12-17T10:47:48Z" uid="24256"
+         user="oglord"
+         changeset="3392732"
+         lat="51.9478969"
+         lon="-3.5666679">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Devynock &amp; Sennybridge"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="359556212" version="2" timestamp="2009-12-17T10:47:47Z" uid="24256"
+         user="oglord"
+         changeset="3392732"
+         lat="51.954192"
+         lon="-3.480408">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="359556235" version="3" timestamp="2011-04-17T22:33:53Z" uid="508"
+         user="Welshie"
+         changeset="7892680"
+         lat="51.9631448"
+         lon="-3.4351863">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="359560328" version="2" timestamp="2009-12-17T21:40:59Z" uid="24256"
+         user="oglord"
+         changeset="3397088"
+         lat="52.1469504"
+         lon="-3.36332">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="430674924" version="2" timestamp="2009-12-01T10:19:01Z" uid="24256"
+         user="oglord"
+         changeset="3262938"
+         lat="51.8161916"
+         lon="-3.0664228">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="431361872" version="9" timestamp="2012-10-03T01:08:32Z" uid="4951"
+         user="PeterIto"
+         changeset="13341944"
+         lat="52.6515376"
+         lon="-3.3227215">
+      <tag k="name" v="Llanfair Caereinion"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="431369403" version="3" timestamp="2012-09-12T21:32:26Z" uid="505740"
+         user="Hilary Phillips"
+         changeset="13089480"
+         lat="52.6220197"
+         lon="-3.9939809">
+      <tag k="name" v="Dolgoch"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="survey"/>
+  </node>
+   <node id="431370430" version="7" timestamp="2012-09-12T21:09:12Z" uid="505740"
+         user="Hilary Phillips"
+         changeset="13089209"
+         lat="52.6417711"
+         lon="-3.9508112">
+      <tag k="name" v="Nant Gwernol"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE;Wikipedia article on Tal-y-lyn railway"/>
+  </node>
+   <node id="431500615" version="3" timestamp="2011-08-20T07:53:58Z" uid="24256"
+         user="oglord"
+         changeset="9071888"
+         lat="51.5817547"
+         lon="-2.9180221">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Llanwern"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="433054019" version="2" timestamp="2011-06-22T08:43:32Z" uid="48155"
+         user="JonBritton"
+         changeset="8512066"
+         lat="51.5301833"
+         lon="-3.057826">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Marshfield"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="NPE"/>
+  </node>
+   <node id="445336731" version="2" timestamp="2011-02-27T23:27:09Z" uid="364"
+         user="Edward"
+         changeset="7416511"
+         lat="52.3424817"
+         lon="-3.9635788">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="467140842" version="4" timestamp="2011-08-24T15:06:48Z" uid="24256"
+         user="oglord"
+         changeset="9113062"
+         lat="51.5888756"
+         lon="-3.0588115">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Rogerstone"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="467140857" version="1" timestamp="2009-08-15T11:22:27Z" uid="24256"
+         user="oglord"
+         changeset="2152039"
+         lat="51.5885209"
+         lon="-3.1126473">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Church Road"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="467140867" version="1" timestamp="2009-08-15T11:22:28Z" uid="24256"
+         user="oglord"
+         changeset="2152039"
+         lat="51.5788839"
+         lon="-3.0442513">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Bassaleg"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="467140868" version="2" timestamp="2011-09-15T18:47:10Z" uid="24256"
+         user="oglord"
+         changeset="9310397"
+         lat="51.5805447"
+         lon="-3.0701984">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Rhiwderin"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="467145464" version="2" timestamp="2011-09-12T09:11:50Z" uid="24256"
+         user="oglord"
+         changeset="9278293"
+         lat="51.578979"
+         lon="-3.0379716">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Bassaleg Junction"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469296956" version="5" timestamp="2011-10-19T09:41:19Z" uid="24256"
+         user="oglord"
+         changeset="9598066"
+         lat="51.5956591"
+         lon="-3.1779292">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Trethomas"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469307649" version="4" timestamp="2011-06-17T17:57:48Z" uid="439547"
+         user="Jay456"
+         changeset="8466945"
+         lat="51.5836247"
+         lon="-3.1892536">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Gwernydomen halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469307667" version="4" timestamp="2011-06-05T21:28:00Z" uid="439547"
+         user="Jay456"
+         changeset="8354704"
+         lat="51.5883199"
+         lon="-3.1618472">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Waterloo halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469307691" version="4" timestamp="2011-06-15T10:17:20Z" uid="24256"
+         user="oglord"
+         changeset="8445565"
+         lat="51.5899024"
+         lon="-3.1690507">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Fountain Bridge halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469307704" version="2" timestamp="2011-05-23T07:37:14Z" uid="101043"
+         user="jjrscott"
+         changeset="8223764"
+         lat="51.5953804"
+         lon="-3.1997803">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469307741" version="2" timestamp="2011-10-19T09:40:28Z" uid="24256"
+         user="oglord"
+         changeset="9598066"
+         lat="51.5977657"
+         lon="-3.1402779">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Machen"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469311166" version="3" timestamp="2009-08-16T17:48:57Z" uid="24256"
+         user="oglord"
+         changeset="2167822"
+         lat="51.612291"
+         lon="-3.1499266">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Nine Mile Point"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469311175" version="4" timestamp="2010-10-26T08:45:52Z" uid="24256"
+         user="oglord"
+         changeset="6180170"
+         lat="51.6132504"
+         lon="-3.1691526">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Port Lawrence halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469311184" version="6" timestamp="2011-09-26T20:18:31Z" uid="508"
+         user="Welshie"
+         changeset="9405525"
+         lat="51.6250366"
+         lon="-3.1889274">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Ynysddu"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469313996" version="7" timestamp="2011-09-26T20:18:29Z" uid="508"
+         user="Welshie"
+         changeset="9405525"
+         lat="51.6367654"
+         lon="-3.1919355">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Wyllie halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469314015" version="5" timestamp="2011-09-26T20:18:30Z" uid="508"
+         user="Welshie"
+         changeset="9405525"
+         lat="51.65346"
+         lon="-3.1897521">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469314016" version="5" timestamp="2011-09-26T20:18:31Z" uid="508"
+         user="Welshie"
+         changeset="9405525"
+         lat="51.6544451"
+         lon="-3.1891942">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469314039" version="5" timestamp="2011-05-22T19:27:02Z" uid="439547"
+         user="Jay456"
+         changeset="8220128"
+         lat="51.6681107"
+         lon="-3.1484408">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469314046" version="6" timestamp="2011-05-22T19:27:03Z" uid="439547"
+         user="Jay456"
+         changeset="8220128"
+         lat="51.6773667"
+         lon="-3.1446565">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Crumlin High Level"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469314057" version="4" timestamp="2011-05-22T19:27:05Z" uid="439547"
+         user="Jay456"
+         changeset="8220128"
+         lat="51.6817739"
+         lon="-3.1273961">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469317528" version="2" timestamp="2011-05-21T19:41:52Z" uid="364"
+         user="Edward"
+         changeset="8209755"
+         lat="51.7397442"
+         lon="-3.1804331">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Cwm"/>
+      <tag k="railway" v="station"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Cwm_railway_station"/>
+  </node>
+   <node id="469317581" version="2" timestamp="2009-11-28T16:24:00Z" uid="24256"
+         user="oglord"
+         changeset="3237562"
+         lat="51.7218569"
+         lon="-3.1291061">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Six Bells"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469317602" version="2" timestamp="2009-11-28T16:24:01Z" uid="24256"
+         user="oglord"
+         changeset="3237562"
+         lat="51.7312671"
+         lon="-3.1389766">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Abertillery"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469317661" version="2" timestamp="2010-07-19T09:00:55Z" uid="24256"
+         user="oglord"
+         changeset="5258762"
+         lat="51.7817933"
+         lon="-3.171764">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Nantyglo"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469317675" version="2" timestamp="2009-12-16T10:44:35Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.7963934"
+         lon="-3.1738239">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Brynmawr"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="469392555" version="2" timestamp="2009-08-17T06:48:35Z" uid="24256"
+         user="oglord"
+         changeset="2173558"
+         lat="51.5821134"
+         lon="-2.986771">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Newport (Dock Street)"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470264931" version="2" timestamp="2011-12-16T09:47:53Z" uid="24256"
+         user="oglord"
+         changeset="10129727"
+         lat="51.6373635"
+         lon="-3.0033184">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Llantarnam"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470275192" version="2" timestamp="2009-09-09T13:40:20Z" uid="24256"
+         user="oglord"
+         changeset="2424556"
+         lat="51.6139975"
+         lon="-2.9590583">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Caerleon"/>
+      <tag k="railway" v="station"/>
+      <tag k="wikipedia" v="Caerleon railway station"/>
+  </node>
+   <node id="470275194" version="3" timestamp="2011-08-20T07:41:11Z" uid="24256"
+         user="oglord"
+         changeset="9071764"
+         lat="51.6293923"
+         lon="-2.9767368">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Ponthir (disused)"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470349721" version="4" timestamp="2011-12-16T10:01:01Z" uid="24256"
+         user="oglord"
+         changeset="10129727"
+         lat="51.660437"
+         lon="-3.0165073">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Lower Pontnewydd"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470349722" version="2" timestamp="2011-12-16T10:53:47Z" uid="24256"
+         user="oglord"
+         changeset="10129727"
+         lat="51.7847303"
+         lon="-2.9793565">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Penpergwm"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470349723" version="4" timestamp="2011-12-16T11:23:04Z" uid="24256"
+         user="oglord"
+         changeset="10129727"
+         lat="51.8315477"
+         lon="-3.001583">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Abergavenny Junction"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470349724" version="2" timestamp="2011-12-16T11:51:35Z" uid="24256"
+         user="oglord"
+         changeset="10129727"
+         lat="51.8733478"
+         lon="-2.9966264">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Llanvihangel"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470349763" version="2" timestamp="2011-12-16T12:00:51Z" uid="24256"
+         user="oglord"
+         changeset="10129727"
+         lat="51.9009632"
+         lon="-2.964984">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="470349774" version="2" timestamp="2011-12-20T09:23:51Z" uid="24256"
+         user="oglord"
+         changeset="10161915"
+         lat="51.9434678"
+         lon="-2.8763427">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Pontrilas"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="471077795" version="3" timestamp="2010-05-16T21:10:03Z" uid="17427"
+         user="dysteleologist"
+         changeset="4722721"
+         lat="53.01178"
+         lon="-4.1078154">
+      <tag k="name" v="Beddgelert"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="482109854" version="3" timestamp="2009-09-03T14:07:11Z" uid="24256"
+         user="oglord"
+         changeset="2359651"
+         lat="51.6616015"
+         lon="-3.0239524">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Upper Pontnewydd"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="482264567" version="4" timestamp="2012-05-15T19:25:47Z" uid="165"
+         user="Richard"
+         changeset="11608108"
+         lat="51.6478037"
+         lon="-3.0222742">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Cwmbran"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="504684879" version="3" timestamp="2011-04-28T22:01:57Z" uid="3560"
+         user="Firefishy"
+         changeset="7999199"
+         lat="52.9312725"
+         lon="-4.128303">
+      <tag k="name" v="Gelert's Farm"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="536612238" version="6" timestamp="2012-05-15T19:28:13Z" uid="165"
+         user="Richard"
+         changeset="11608137"
+         lat="51.6818124"
+         lon="-3.3767951">
+      <tag k="name" v="Mountain Ash"/>
+      <tag k="name:cy" v="Aberpennar"/>
+      <tag k="naptan:AtcoCode" v="9100MASH"/>
+      <tag k="railway" v="station"/>
+      <tag k="start_date" v="1988"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Mountain_Ash_railway_station"/>
+  </node>
+   <node id="536614710" version="4" timestamp="2011-03-11T21:29:42Z" uid="364"
+         user="Edward"
+         changeset="7527761"
+         lat="51.6449443"
+         lon="-3.3270562">
+      <tag k="disused" v="yes"/>
+      <tag k="end_date" v="2008-05"/>
+      <tag k="name" v="Abercynon North"/>
+      <tag k="name:cy" v="Gogledd Abercynon"/>
+      <tag k="naptan:AtcoCode" v="9100ABRCYNN"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="ABR"/>
+      <tag k="start_date" v="1988-10-03"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Abercynon_North_railway_station"/>
+  </node>
+   <node id="571623104" version="3" timestamp="2012-06-13T16:58:56Z" uid="453172"
+         user="victuallers"
+         changeset="11886903"
+         lat="51.8048652"
+         lon="-2.7042081">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Wyesham"/>
+      <tag k="railway" v="station"/>
+      <tag k="wikipedia" v="en:Wyesham Halt railway station"/>
+  </node>
+   <node id="571623152" version="2" timestamp="2009-11-28T15:40:59Z" uid="24256"
+         user="oglord"
+         changeset="3237191"
+         lat="51.8026616"
+         lon="-2.7139262">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Monmouth Troy"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="571623264" version="2" timestamp="2012-06-13T17:23:12Z" uid="453172"
+         user="victuallers"
+         changeset="11886903"
+         lat="51.7323883"
+         lon="-2.6871041">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Llandogo"/>
+      <tag k="railway" v="station"/>
+      <tag k="wikipedia" v="en:Llandogo Halt railway station"/>
+  </node>
+   <node id="573399275" version="5" timestamp="2011-12-16T10:36:30Z" uid="24256"
+         user="oglord"
+         changeset="10129727"
+         lat="51.7168384"
+         lon="-2.9908419">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Little Mill Junction (disused)"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573399291" version="3" timestamp="2009-12-01T10:06:11Z" uid="24256"
+         user="oglord"
+         changeset="3262875"
+         lat="51.714175"
+         lon="-2.9609198">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573399318" version="4" timestamp="2011-06-19T11:22:54Z" uid="60996"
+         user="Welsh"
+         changeset="8482793"
+         lat="51.7062469"
+         lon="-2.9050567">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Usk (disused)"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573399336" version="2" timestamp="2009-11-28T15:43:42Z" uid="24256"
+         user="oglord"
+         changeset="3237191"
+         lat="51.7312148"
+         lon="-2.8445441">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573399339" version="2" timestamp="2009-11-28T15:43:42Z" uid="24256"
+         user="oglord"
+         changeset="3237191"
+         lat="51.7437587"
+         lon="-2.842055">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573399352" version="3" timestamp="2012-08-25T16:53:12Z" uid="4951"
+         user="PeterIto"
+         changeset="12857597"
+         lat="51.7708636"
+         lon="-2.8287081">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573399410" version="4" timestamp="2012-06-13T16:54:54Z" uid="453172"
+         user="victuallers"
+         changeset="11886903"
+         lat="51.8112468"
+         lon="-2.7073624">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Monmouth May Hill"/>
+      <tag k="railway" v="station"/>
+      <tag k="wikipedia" v="en:Monmouth Mayhill railway station"/>
+  </node>
+   <node id="573399815" version="1" timestamp="2009-11-28T15:43:42Z" uid="24256"
+         user="oglord"
+         changeset="3237191"
+         lat="51.7627539"
+         lon="-2.8404671">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Raglan"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573417461" version="1" timestamp="2009-11-28T16:21:19Z" uid="24256"
+         user="oglord"
+         changeset="3237562"
+         lat="51.7804177"
+         lon="-3.2079418">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573417476" version="1" timestamp="2009-11-28T16:21:22Z" uid="24256"
+         user="oglord"
+         changeset="3237562"
+         lat="51.7830196"
+         lon="-3.206826">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="573417481" version="1" timestamp="2009-11-28T16:21:22Z" uid="24256"
+         user="oglord"
+         changeset="3237562"
+         lat="51.7729298"
+         lon="-3.2003029">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="577012668" version="2" timestamp="2009-12-01T10:21:07Z" uid="24256"
+         user="oglord"
+         changeset="3262938"
+         lat="51.8260835"
+         lon="-3.024476">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Abergavenny Brecon Road"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="582796017" version="1" timestamp="2009-12-07T04:46:04Z" uid="24614"
+         user="Alex McKee"
+         changeset="3312502"
+         lat="51.7921674"
+         lon="-3.1336638">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Waunavon"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="590740198" version="2" timestamp="2011-11-05T13:53:08Z" uid="24256"
+         user="oglord"
+         changeset="9746448"
+         lat="51.7840036"
+         lon="-3.1185638">
+      <tag k="name" v="Whistle Inn halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="590740213" version="3" timestamp="2012-10-03T00:46:35Z" uid="4951"
+         user="PeterIto"
+         changeset="13341885"
+         lat="51.7785502"
+         lon="-3.1113576">
+      <tag k="name" v="Furnace Sidings"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="590751313" version="3" timestamp="2012-10-03T00:47:27Z" uid="4951"
+         user="PeterIto"
+         changeset="13341885"
+         lat="51.7684836"
+         lon="-3.0852529">
+      <tag k="name" v="Blaenavon High Level"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="590759312" version="1" timestamp="2009-12-14T20:11:15Z" uid="24256"
+         user="oglord"
+         changeset="3374680"
+         lat="51.7700269"
+         lon="-3.0838033">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Blaenavon Low Level"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="591817573" version="4" timestamp="2012-10-03T00:46:35Z" uid="4951"
+         user="PeterIto"
+         changeset="13341885"
+         lat="51.7740097"
+         lon="-3.1050038">
+      <tag k="name" v="Big Pit halt"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="593381201" version="1" timestamp="2009-12-16T10:32:23Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.7964381"
+         lon="-3.2375771">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593381238" version="2" timestamp="2009-12-16T10:44:35Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.798349"
+         lon="-3.2068497">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593384083" version="3" timestamp="2011-05-08T04:15:21Z" uid="260682"
+         user="monxton"
+         changeset="8078827"
+         lat="51.8036232"
+         lon="-3.1422496">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593386555" version="2" timestamp="2011-05-08T04:15:18Z" uid="260682"
+         user="monxton"
+         changeset="8078827"
+         lat="51.8193427"
+         lon="-3.0990156">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593386584" version="2" timestamp="2011-05-08T04:15:17Z" uid="260682"
+         user="monxton"
+         changeset="8078827"
+         lat="51.8076928"
+         lon="-3.1154039">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Clydach"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593401282" version="4" timestamp="2012-09-21T08:27:57Z" uid="508"
+         user="Welshie"
+         changeset="13192560"
+         lat="51.7633876"
+         lon="-3.3443924">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593402866" version="1" timestamp="2009-12-16T10:50:10Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.7626649"
+         lon="-3.3561522">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Dowlais Central"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593404223" version="1" timestamp="2009-12-16T10:51:26Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.7617087"
+         lon="-3.3454234">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593411918" version="2" timestamp="2011-09-22T21:08:28Z" uid="508"
+         user="Welshie"
+         changeset="9372609"
+         lat="51.7073498"
+         lon="-3.263279">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Darran &amp; Deri"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593411921" version="2" timestamp="2009-12-16T11:53:59Z" uid="24256"
+         user="oglord"
+         changeset="3386059"
+         lat="51.7152549"
+         lon="-3.2683903">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593411951" version="4" timestamp="2012-09-21T08:27:57Z" uid="508"
+         user="Welshie"
+         changeset="13192560"
+         lat="51.7410277"
+         lon="-3.298914">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Fochriw"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593411980" version="2" timestamp="2012-09-21T08:27:56Z" uid="508"
+         user="Welshie"
+         changeset="13192560"
+         lat="51.7632296"
+         lon="-3.3193975">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593411999" version="2" timestamp="2012-09-21T08:27:56Z" uid="508"
+         user="Welshie"
+         changeset="13192560"
+         lat="51.7668131"
+         lon="-3.3356924">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Dowlais Top"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593432292" version="3" timestamp="2010-10-26T08:59:16Z" uid="24256"
+         user="oglord"
+         changeset="6180265"
+         lat="51.7484338"
+         lon="-3.2756095">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Rhymney Lower"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593432309" version="3" timestamp="2010-10-26T08:58:20Z" uid="24256"
+         user="oglord"
+         changeset="6180265"
+         lat="51.7405287"
+         lon="-3.2589369">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Abertysswg"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593432327" version="3" timestamp="2010-11-01T22:31:23Z" uid="182738"
+         user="manor09"
+         changeset="6263955"
+         lat="51.7218005"
+         lon="-3.2427475">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="New Tredegar"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593432353" version="2" timestamp="2010-10-26T08:57:21Z" uid="24256"
+         user="oglord"
+         changeset="6180265"
+         lat="51.7087667"
+         lon="-3.2250458">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Cwmsyfiog"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593432372" version="2" timestamp="2010-10-26T08:57:21Z" uid="24256"
+         user="oglord"
+         changeset="6180265"
+         lat="51.6961599"
+         lon="-3.2289082">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Aberbargoed"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593432413" version="2" timestamp="2010-04-24T08:50:27Z" uid="24256"
+         user="oglord"
+         changeset="4509456"
+         lat="51.6699258"
+         lon="-3.2219975">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593432436" version="2" timestamp="2010-10-26T08:57:21Z" uid="24256"
+         user="oglord"
+         changeset="6180265"
+         lat="51.662365"
+         lon="-3.2217843">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Fleur-de-Lis"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593443743" version="1" timestamp="2009-12-16T11:22:41Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.767127"
+         lon="-3.2409245">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593443763" version="1" timestamp="2009-12-16T11:22:42Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.7465128"
+         lon="-3.2227284">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593443787" version="2" timestamp="2010-07-19T08:36:22Z" uid="24256"
+         user="oglord"
+         changeset="5258762"
+         lat="51.723405"
+         lon="-3.20911">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593443806" version="1" timestamp="2009-12-16T11:22:43Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.7104686"
+         lon="-3.2095963">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593443852" version="2" timestamp="2010-07-19T08:36:24Z" uid="24256"
+         user="oglord"
+         changeset="5258762"
+         lat="51.6953499"
+         lon="-3.1921799">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593443908" version="1" timestamp="2009-12-16T11:22:46Z" uid="24256"
+         user="oglord"
+         changeset="3385627"
+         lat="51.6728521"
+         lon="-3.194061">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Blackwood"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593492333" version="3" timestamp="2012-09-16T15:51:31Z" uid="508"
+         user="Welshie"
+         changeset="13132091"
+         lat="51.7253498"
+         lon="-3.3732047">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593494414" version="3" timestamp="2011-09-12T12:19:09Z" uid="508"
+         user="Welshie"
+         changeset="9279723"
+         lat="51.7217932"
+         lon="-3.4277928">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593494438" version="2" timestamp="2009-12-16T12:05:52Z" uid="24256"
+         user="oglord"
+         changeset="3386059"
+         lat="51.7348319"
+         lon="-3.4638848">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Llwydcoed"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593498402" version="2" timestamp="2010-05-05T20:02:28Z" uid="17427"
+         user="dysteleologist"
+         changeset="4616379"
+         lat="51.7427519"
+         lon="-3.5065604">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593498436" version="1" timestamp="2009-12-16T12:08:23Z" uid="24256"
+         user="oglord"
+         changeset="3386059"
+         lat="51.7503505"
+         lon="-3.5492005">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593499860" version="1" timestamp="2009-12-16T12:09:32Z" uid="24256"
+         user="oglord"
+         changeset="3386059"
+         lat="51.7367986"
+         lon="-3.6411252">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Glyn Neath"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="593501152" version="2" timestamp="2010-05-04T21:40:55Z" uid="17427"
+         user="dysteleologist"
+         changeset="4608609"
+         lat="51.6927062"
+         lon="-3.7334286">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="594813976" version="4" timestamp="2012-10-03T00:44:00Z" uid="4951"
+         user="PeterIto"
+         changeset="13341875"
+         lat="51.9466536"
+         lon="-3.3851194">
+      <tag k="name" v="Brecon"/>
+      <tag k="name:cy" v="Aberhonddu"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="595411589" version="4" timestamp="2012-05-15T19:27:31Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.1681988"
+         lon="-3.4270963">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="599208872" version="1" timestamp="2009-12-25T11:42:30Z" uid="24256"
+         user="oglord"
+         changeset="3447519"
+         lat="51.593047"
+         lon="-2.9971418">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Newport (Mill Street)"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="673464658" version="2" timestamp="2010-05-16T21:14:40Z" uid="17427"
+         user="dysteleologist"
+         changeset="4722721"
+         lat="53.1167976"
+         lon="-4.2758826">
+      <tag k="name" v="Bontnewydd"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="694112504" version="1" timestamp="2010-04-12T09:58:10Z" uid="82783"
+         user="Paul The Archivist"
+         changeset="4402782"
+         lat="52.422378"
+         lon="-4.0839014">
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="694112510" version="2" timestamp="2011-07-15T16:24:57Z" uid="81429"
+         user="Bramble"
+         changeset="8732572"
+         lat="52.4243163"
+         lon="-4.082761">
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="700507008" version="2" timestamp="2012-07-31T15:10:27Z" uid="359193"
+         user="JeffH"
+         changeset="12562739"
+         lat="52.7151592"
+         lon="-4.0484701">
+      <tag k="name" v="Barmouth Ferry"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="OS OpenData StreetView"/>
+  </node>
+   <node id="702778141" version="3" timestamp="2012-10-03T01:06:21Z" uid="4951"
+         user="PeterIto"
+         changeset="13341933"
+         lat="51.9083962"
+         lon="-4.317671">
+      <tag k="name" v="Llwyfan Cerrig"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="702781298" version="3" timestamp="2012-10-03T01:06:22Z" uid="4951"
+         user="PeterIto"
+         changeset="13341933"
+         lat="51.8921506"
+         lon="-4.3007195">
+      <tag k="name" v="Bronwydd Arms"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="706980559" version="4" timestamp="2012-10-03T01:06:21Z" uid="4951"
+         user="PeterIto"
+         changeset="13341933"
+         lat="51.8732364"
+         lon="-4.2826628">
+      <tag k="name" v="Gogledd Caerfyrddin"/>
+      <tag k="name:cy" v="Gogledd Caerfyrddin"/>
+      <tag k="name:en" v="Carmarthen North"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="736929512" version="2" timestamp="2011-10-20T11:41:45Z" uid="7037"
+         user="Gregory Williams"
+         changeset="9607834"
+         lat="53.1034854"
+         lon="-4.2769815">
+      <tag k="name" v="Dinas"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="737059415" version="1" timestamp="2010-05-17T02:52:13Z" uid="3560"
+         user="Firefishy"
+         changeset="4724975"
+         lat="52.207369"
+         lon="-3.0185482">
+      <tag k="abandoned" v="yes"/>
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Kington"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="737059463" version="1" timestamp="2010-05-17T02:52:14Z" uid="3560"
+         user="Firefishy"
+         changeset="4724975"
+         lat="52.2362941"
+         lon="-3.1478993">
+      <tag k="abandoned" v="yes"/>
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="New Radnor"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="858361120" version="3" timestamp="2012-10-06T03:53:54Z" uid="4951"
+         user="PeterIto"
+         changeset="13380401"
+         lat="51.7789915"
+         lon="-4.8028156">
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="893971475" version="4" timestamp="2012-05-15T19:28:01Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="52.0515699"
+         lon="-3.748234">
+      <tag k="name" v="Cynghordy"/>
+      <tag k="naptan:AtcoCode" v="9100CYNGHRD"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="965852095" version="1" timestamp="2010-10-26T08:49:10Z" uid="24256"
+         user="oglord"
+         changeset="6180170"
+         lat="51.645637"
+         lon="-3.2227179">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Maesycwmmer"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="986679995" version="1" timestamp="2010-11-12T15:10:53Z" uid="165"
+         user="Richard"
+         changeset="6351499"
+         lat="51.6757694"
+         lon="-3.0207506">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1039371521" version="4" timestamp="2012-05-15T19:27:50Z" uid="165"
+         user="Richard"
+         changeset="11608129"
+         lat="51.9953339"
+         lon="-3.8029698">
+      <tag k="name" v="Llandovery"/>
+      <tag k="naptan:AtcoCode" v="9100LLDVERY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1069493538" version="5" timestamp="2012-06-16T19:59:12Z" uid="165061"
+         user="mapper999"
+         changeset="11917924"
+         lat="51.584363"
+         lon="-2.7769784">
+      <tag k="name" v="Severn Tunnel Junction"/>
+      <tag k="name:cy" v="Cyffordd Twnnel Hafren"/>
+      <tag k="naptan:AtcoCode" v="9100SEVTNLJ"/>
+      <tag k="old_name" v="Rogiet"/>
+      <tag k="postal_code" v="NP26 3SP"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="STJ"/>
+  </node>
+   <node id="1133031144" version="1" timestamp="2011-02-02T22:51:37Z" uid="127060"
+         user="kennioje"
+         changeset="7169804"
+         lat="52.6533675"
+         lon="-3.8415802">
+      <tag k="name" v="Corris"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1141523248" version="1" timestamp="2011-02-08T00:10:15Z" uid="127060"
+         user="kennioje"
+         changeset="7222550"
+         lat="52.6446445"
+         lon="-3.8444972">
+      <tag k="access" v="private"/>
+      <tag k="name" v="Maespoeth"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1270215692" version="1" timestamp="2011-05-02T12:22:12Z" uid="379166"
+         user="Borbus"
+         changeset="8030133"
+         lat="53.1177297"
+         lon="-4.119049">
+      <tag k="name" v="Llanberis"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1270215766" version="1" timestamp="2011-05-02T12:22:16Z" uid="379166"
+         user="Borbus"
+         changeset="8030133"
+         lat="53.1226641"
+         lon="-4.1154697">
+      <tag k="name" v="Gilfach Ddu"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1271340206" version="4" timestamp="2012-08-25T18:42:56Z" uid="736"
+         user="Steve Chilton"
+         changeset="12858707"
+         lat="53.0684323"
+         lon="-4.076527">
+      <tag k="name" v="Summit"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="npe"/>
+  </node>
+   <node id="1276693631" version="2" timestamp="2011-05-08T15:10:49Z" uid="364"
+         user="Edward"
+         changeset="8083678"
+         lat="53.2853851"
+         lon="-4.3471415">
+      <tag k="disused" v="yes"/>
+      <tag k="end_date" v="1964-12-05"/>
+      <tag k="name" v="Llangwyllog"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="Bing"/>
+      <tag k="start_date" v="1865-04"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Llangwyllog_railway_station"/>
+  </node>
+   <node id="1277568750" version="1" timestamp="2011-05-08T20:38:31Z" uid="364"
+         user="Edward"
+         changeset="8087461"
+         lat="53.2130254"
+         lon="-4.2695873">
+      <tag k="disused" v="yes"/>
+      <tag k="end_date" v="1966"/>
+      <tag k="name" v="Gaerwen"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="Bing"/>
+      <tag k="start_date" v="1864"/>
+      <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Gaerwen_railway_station"/>
+  </node>
+   <node id="1327562038" version="3" timestamp="2012-05-15T19:15:27Z" uid="165"
+         user="Richard"
+         changeset="11608002"
+         lat="51.4882052"
+         lon="-3.229519">
+      <tag k="name" v="Waun-Gron Park"/>
+      <tag k="name:cy" v="Parc Waun-Gron"/>
+      <tag k="naptan:AtcoCode" v="9100WAUNGRN"/>
+      <tag k="railway" v="station"/>
+      <tag k="wikipedia" v="Waun-Gron Park railway station"/>
+  </node>
+   <node id="1491314644" version="2" timestamp="2012-04-12T13:37:26Z" uid="24256"
+         user="oglord"
+         changeset="11276577"
+         lat="52.9341254"
+         lon="-4.3124468">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Llangybi"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1497911671" version="1" timestamp="2011-11-10T23:30:59Z" uid="165"
+         user="Richard"
+         changeset="9793227"
+         lat="53.05109"
+         lon="-4.1330404">
+      <tag k="name" v="Rhyd Ddu"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1558395154" version="1" timestamp="2011-12-22T18:15:31Z" uid="8235"
+         user="chriscf"
+         changeset="10181789"
+         lat="51.9126066"
+         lon="-4.3482122">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Conwil"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1590432668" version="2" timestamp="2012-10-02T22:28:45Z" uid="4951"
+         user="PeterIto"
+         changeset="13341183"
+         lat="51.7775803"
+         lon="-4.8001354">
+      <tag k="name" v="Park Entrance"/>
+      <tag k="railway" v="station"/>
+      <tag k="usage" v="tourism"/>
+  </node>
+   <node id="1597729335" version="2" timestamp="2012-05-04T15:43:34Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.4672525"
+         lon="-3.1895595">
+      <tag k="name" v="Grangetown"/>
+      <tag k="name:cy" v="Trelluest"/>
+      <tag k="naptan:AtcoCode" v="9100GNTN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1597734194" version="2" timestamp="2012-05-04T15:43:34Z" uid="401102"
+         user="ian29"
+         changeset="11499079"
+         lat="51.475659"
+         lon="-3.1796784">
+      <tag k="name" v="Cardiff Central"/>
+      <tag k="name:cy" v="Caerdydd Canolog"/>
+      <tag k="naptan:AtcoCode" v="9100CRDFCEN"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1599784507" version="3" timestamp="2012-05-15T19:15:51Z" uid="165"
+         user="Richard"
+         changeset="11608009"
+         lat="53.0507564"
+         lon="-3.0020591">
+      <tag k="name" v="Wrexham Exchange"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1711298969" version="1" timestamp="2012-04-11T11:05:51Z" uid="24119"
+         user="Mauls"
+         changeset="11263622"
+         lat="52.9273528"
+         lon="-3.9373276">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Trawsfynydd Lake Halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1711322464" version="2" timestamp="2012-04-13T23:41:20Z" uid="24119"
+         user="Mauls"
+         changeset="11293801"
+         lat="52.9697973"
+         lon="-3.9200331">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Cwm Teigl Halt"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1712713649" version="1" timestamp="2012-04-12T13:37:21Z" uid="24256"
+         user="oglord"
+         changeset="11276577"
+         lat="52.9203716"
+         lon="-4.3312587">
+      <tag k="disused" v="yes"/>
+      <tag k="name" v="Chwilog"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1712713656" version="1" timestamp="2012-04-12T13:37:21Z" uid="24256"
+         user="oglord"
+         changeset="11276577"
+         lat="52.9771053"
+         lon="-4.2659875">
+      <tag k="disused" v="yes"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1752948061" version="1" timestamp="2012-05-14T20:09:41Z" uid="427658"
+         user="Fluclo"
+         changeset="11599531"
+         lat="52.0042518"
+         lon="-4.9946689">
+      <tag k="name" v="Fishguard and Goodwick"/>
+      <tag k="notes" v="(Re) Opened 14 May 2012"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1836862135" version="1" timestamp="2012-07-24T18:51:31Z" uid="359193"
+         user="JeffH"
+         changeset="12473740"
+         lat="52.9945942"
+         lon="-3.9379224">
+      <tag k="name" v="Blaenau Ffestiniog"/>
+      <tag k="name:ru" v="Блайнай-Фестиниог"/>
+      <tag k="network" v="Ffestiniog Railway"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1836922925" version="1" timestamp="2012-07-24T19:47:24Z" uid="359193"
+         user="JeffH"
+         changeset="12474980"
+         lat="52.9544727"
+         lon="-4.0112267">
+      <tag k="name" v="Tan y Bwlch"/>
+      <tag k="naptan:AtcoCode" v="9100TANY"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1838119014" version="3" timestamp="2012-08-05T21:41:09Z" uid="359193"
+         user="JeffH"
+         changeset="12626746"
+         lat="52.9240121"
+         lon="-4.1266708">
+      <tag k="name" v="Porthmadog Harbour"/>
+      <tag k="name:ru" v="Портмадог-Порт"/>
+      <tag k="naptan:AtcoCode" v="9100PRTHHBR"/>
+      <tag k="operator" v="Ffestiniog Railway"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1841504351" version="1" timestamp="2012-07-28T15:46:50Z" uid="359193"
+         user="JeffH"
+         changeset="12524816"
+         lat="52.9208941"
+         lon="-4.1046148">
+      <tag k="name" v="Boston Lodge"/>
+      <tag k="name:ru" v="Бостон Лодж"/>
+      <tag k="railway" v="station"/>
+      <tag k="source" v="wikipedia"/>
+  </node>
+   <node id="1841551924" version="1" timestamp="2012-07-28T16:15:18Z" uid="359193"
+         user="JeffH"
+         changeset="12525158"
+         lat="52.9262402"
+         lon="-4.0832022">
+      <tag k="name" v="Minffordd"/>
+      <tag k="name:ru" v="Минфорт"/>
+      <tag k="operator" v="Ffestiniog Railway"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1842732758" version="1" timestamp="2012-07-29T13:32:24Z" uid="359193"
+         user="JeffH"
+         changeset="12535058"
+         lat="52.9309919"
+         lon="-4.1354588">
+      <tag k="name" v="Porthmadog"/>
+      <tag k="naptan:AtcoCode" v="9100PRTHMDG"/>
+      <tag k="network" v="National Rail"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1876261475" version="3" timestamp="2012-08-21T16:43:07Z" uid="427658"
+         user="Fluclo"
+         changeset="12810697"
+         lat="51.6487122"
+         lon="-4.0352563">
+      <tag k="name" v="Gowerton"/>
+      <tag k="name:cy" v="Tre-gŵyr"/>
+      <tag k="name:old" v="Gowerton North"/>
+      <tag k="naptan:AtcoCode" v="9100GOWERTN"/>
+      <tag k="railway" v="station"/>
+  </node>
+   <node id="1924250527" version="1" timestamp="2012-09-20T21:34:51Z" uid="901728"
+         user="llewpart"
+         changeset="13188903"
+         lat="52.8983831"
+         lon="-4.3749162">
+      <tag k="designation" v="ABH"/>
+      <tag k="name" v="Abererch"/>
+      <tag k="operator" v="Arriva Trains Wales"/>
+      <tag k="railway" v="station"/>
+      <tag k="ref" v="ABH"/>
+      <tag k="source" v="Wikipedia"/>
+  </node>
+</osm>
