@@ -1,0 +1,63 @@
+Reducing a rail network to a minimal graph, using PostGIS
+=========================================================
+
+You will need:
+- osmosis (shell commands below are run from the root of the osmosis distribution)
+- PostgreSQL + PostGIS
+- Python
+- psycopg2 (Python PostgreSQL binding)
+
+1) Extract railway-related nodes and ways from your OSM data source
+
+./bin/osmosis --read-pbf wales.osm.pbf --tf accept-ways railway=* --tf reject-relations --used-node --write-xml railway-ways.osm
+./bin/osmosis --read-pbf wales.osm.pbf --tf accept-nodes railway=* --tf reject-ways --tf reject-relations --write-xml railway-nodes.osm
+./bin/osmosis --read-xml railway-ways.osm --read-xml railway-nodes.oxm --merge --write-xml railways_full.osm
+
+2) Create a PostGIS-enabled database
+
+createdb -Upostgres traingraph -T template_postgis
+psql -Upostgres traingraph -f script/pgsimple_schema_0.6.sql 
+
+3) Import data into the database
+
+./bin/osmosis --read-xml ~/Sites/trainhack/railways_wales_fixed.osm --write-pgsimp user="postgres" database="traingraph"
+
+4) Create table of stations
+
+(at the PostgreSQL command line)
+
+SELECT nodes.id, name_tags.v AS name, nodes.geom
+INTO stations
+FROM nodes
+INNER JOIN node_tags AS rail_tags ON (nodes.id=rail_tags.node_id AND rail_tags.k='railway' AND rail_tags.v='station')
+INNER JOIN node_tags AS name_tags ON (nodes.id=name_tags.node_id AND name_tags.k='name');
+
+ALTER TABLE stations ADD PRIMARY KEY (id);
+
+5) Create table of graph edges
+
+SELECT DISTINCT
+	node1.id AS node1_id,
+	node2.id AS node2_id,
+	way_tags.v AS rail_type,
+	ST_MakeLine(node1.geom, node2.geom) AS linestring
+INTO rail_segments
+FROM way_nodes AS way_node1
+INNER JOIN way_nodes AS way_node2 ON (way_node1.way_id = way_node2.way_id AND way_node1.sequence_id + 1 = way_node2.sequence_id)
+INNER JOIN way_tags ON (
+	way_node1.way_id = way_tags.way_id AND way_tags.k = 'railway'
+	AND way_tags.v = 'rail'  -- tweak for other railway types as desired...
+)
+INNER JOIN nodes AS node1 ON (way_node1.node_id = node1.id)
+INNER JOIN nodes AS node2 ON (way_node2.node_id = node2.id);
+
+ALTER TABLE rail_segments ADD FOREIGN KEY (node1_id) REFERENCES nodes(id);
+ALTER TABLE rail_segments ADD FOREIGN KEY (node2_id) REFERENCES nodes(id);
+
+6) Run reduce_graph.py to collapse edges into a minimal graph
+
+python reduce_graph.py
+
+7) Output as KML
+
+python graph_to_kml.py > railways.kml
