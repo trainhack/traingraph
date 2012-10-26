@@ -34,30 +34,69 @@ INNER JOIN node_tags AS name_tags ON (nodes.id=name_tags.node_id AND name_tags.k
 
 ALTER TABLE stations ADD PRIMARY KEY (id);
 
-5) Create table of graph edges
+5) Create table of line segments that join two nodes:
 
 SELECT DISTINCT
-	node1.id AS node1_id,
-	node2.id AS node2_id,
-	way_tags.v AS rail_type,
-	ST_MakeLine(node1.geom, node2.geom) AS linestring
+	-- order nodes such that node1_id < node2_id
+	LEAST(way_node1.node_id, way_node2.node_id) AS node1_id,
+	GREATEST(way_node1.node_id, way_node2.node_id) AS node2_id,
+	BOOL(0) AS visited -- will be set to 't' by the build_paths script
 INTO rail_segments
 FROM way_nodes AS way_node1
 INNER JOIN way_nodes AS way_node2 ON (way_node1.way_id = way_node2.way_id AND way_node1.sequence_id + 1 = way_node2.sequence_id)
 INNER JOIN way_tags ON (
-	way_node1.way_id = way_tags.way_id AND way_tags.k = 'railway'
-	AND way_tags.v = 'rail'  -- tweak for other railway types as desired...
+	way_node1.way_id = way_tags.way_id AND way_tags.k = 'railway' AND way_tags.v = 'rail'
+	-- alter these criteria as appropriate, e.g. to include specific track types
 )
-INNER JOIN nodes AS node1 ON (way_node1.node_id = node1.id)
-INNER JOIN nodes AS node2 ON (way_node2.node_id = node2.id);
 
 ALTER TABLE rail_segments ADD FOREIGN KEY (node1_id) REFERENCES nodes(id);
 ALTER TABLE rail_segments ADD FOREIGN KEY (node2_id) REFERENCES nodes(id);
 
-6) Run reduce_graph.py to collapse edges into a minimal graph
+CREATE INDEX idx_rail_segments_node1 ON rail_segments(node1_id);
+CREATE INDEX idx_rail_segments_node2 ON rail_segments(node2_id);
 
-python reduce_graph.py
+6) Create a table of junctions (nodes with exactly one, or three or more, line segments leaving them):
 
-7) Output as KML
+SELECT id, neighbour_count,
+	neighbour_count AS unfollowed_neighbour_count -- will be decremented by the build_paths script
+INTO junctions
+FROM (
+	SELECT nodes.id, (SELECT COUNT(*) FROM rail_segments WHERE nodes.id = node1_id OR nodes.id = node2_id) AS neighbour_count
+	FROM nodes
+) foo
+WHERE neighbour_count > 0 AND neighbour_count <> 2;
+
+ALTER TABLE junctions ADD PRIMARY KEY (id);
+
+7) Create a table of paths (maximal sequences of nodes that do not contain any branches) to be populated by the build_paths script:
+
+CREATE SEQUENCE seq_path_id;
+CREATE TABLE paths (
+	id BIGINT NOT NULL DEFAULT NEXTVAL('seq_path_id'),
+	node1_id BIGINT NOT NULL,
+	node2_id BIGINT NOT NULL,
+	linestring GEOMETRY,
+	length FLOAT,
+
+	PRIMARY KEY (id),
+	FOREIGN KEY (node1_id) REFERENCES nodes(id),
+	FOREIGN KEY (node2_id) REFERENCES nodes(id)
+);
+CREATE TABLE path_nodes (
+	path_id BIGINT NOT NULL,
+	node_id BIGINT NOT NULL,
+	sequence_id INTEGER NOT NULL,
+
+	FOREIGN KEY (path_id) REFERENCES paths(id),
+	FOREIGN KEY (node_id) REFERENCES nodes(id)
+);
+
+8) Run build_paths.py to populate the table of paths
+
+python build_paths.py
+
+8.5) TODO: populate the linestring field of the paths table (necessary for rendering as KML...)
+
+9) Output as KML
 
 python graph_to_kml.py > railways.kml
