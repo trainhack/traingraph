@@ -37,12 +37,13 @@ while True:
 				(CASE WHEN node1_id = %s THEN node2_id ELSE node1_id END) AS next_node
 			FROM rail_segments
 			WHERE
-				(node1_id = %s OR node2_id = %s)
-				AND visited = 'f'
+				(node1_id = %s AND node2_id <> %s)
+				OR (node2_id = %s AND node1_id <> %s)
 		""", (
 			min(last_node, current_node), max(last_node, current_node),
 			current_node,
-			current_node, current_node
+			current_node, last_node,
+			current_node, last_node,
 		))
 
 		rows = cur.fetchall()
