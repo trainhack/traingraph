@@ -40,7 +40,7 @@ SELECT DISTINCT
 	-- order nodes such that node1_id < node2_id
 	LEAST(way_node1.node_id, way_node2.node_id) AS node1_id,
 	GREATEST(way_node1.node_id, way_node2.node_id) AS node2_id,
-	BOOL(0) AS visited -- will be set to 't' by the build_paths script
+	NULL AS path_id -- will be populated by the build_paths script
 INTO rail_segments
 FROM way_nodes AS way_node1
 INNER JOIN way_nodes AS way_node2 ON (way_node1.way_id = way_node2.way_id AND way_node1.sequence_id + 1 = way_node2.sequence_id)

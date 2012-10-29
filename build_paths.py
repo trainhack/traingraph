@@ -13,7 +13,7 @@ while True:
 		FROM junctions
 		INNER JOIN rail_segments ON (
 			(junctions.id = node1_id OR junctions.id = node2_id)
-			AND visited = 'f'
+			AND path_id IS NULL
 		)
 		WHERE unfollowed_neighbour_count > 0
 		LIMIT 1
@@ -29,10 +29,6 @@ while True:
 	while True:
 		# continue walking the graph until we encounter another node with more than one exit
 		cur.execute("""
-			UPDATE rail_segments
-			SET visited = 't'
-			WHERE node1_id = %s AND node2_id = %s;
-
 			SELECT
 				(CASE WHEN node1_id = %s THEN node2_id ELSE node1_id END) AS next_node
 			FROM rail_segments
@@ -40,7 +36,6 @@ while True:
 				(node1_id = %s AND node2_id <> %s)
 				OR (node2_id = %s AND node1_id <> %s)
 		""", (
-			min(last_node, current_node), max(last_node, current_node),
 			current_node,
 			current_node, last_node,
 			current_node, last_node,
@@ -76,6 +71,17 @@ while True:
 				CURRVAL('seq_path_id'), %s, %s
 			)
 		""", (node, i))
+
+		if i != 0:
+			# annotate rail_segments with the path id to mark them as visited
+			cur.execute("""
+				UPDATE rail_segments
+				SET path_id = CURRVAL('seq_path_id')
+				WHERE node1_id = %s AND node2_id = %s
+			""", (
+				min(nodes[i - 1], nodes[i]),
+				max(nodes[i - 1], nodes[i]),
+			))
 
 	conn.commit()
 
