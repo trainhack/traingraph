@@ -47,7 +47,7 @@ INNER JOIN way_nodes AS way_node2 ON (way_node1.way_id = way_node2.way_id AND wa
 INNER JOIN way_tags ON (
 	way_node1.way_id = way_tags.way_id AND way_tags.k = 'railway' AND way_tags.v = 'rail'
 	-- alter these criteria as appropriate, e.g. to include specific track types
-)
+);
 
 ALTER TABLE rail_segments ADD FOREIGN KEY (node1_id) REFERENCES nodes(id);
 ALTER TABLE rail_segments ADD FOREIGN KEY (node2_id) REFERENCES nodes(id);
@@ -90,13 +90,16 @@ CREATE TABLE path_nodes (
 	FOREIGN KEY (path_id) REFERENCES paths(id),
 	FOREIGN KEY (node_id) REFERENCES nodes(id)
 );
+CREATE INDEX idx_path_nodes_path ON path_nodes(path_id, sequence_id);
 
 8) Run build_paths.py to populate the table of paths
 
 python build_paths.py
 
-8.5) TODO: populate the linestring field of the paths table (necessary for rendering as KML...)
+9) Populate the linestring and length fields of the paths table
 
-9) Output as KML
+python add_linestrings.py
+
+10) Output as KML
 
 python graph_to_kml.py > railways.kml
