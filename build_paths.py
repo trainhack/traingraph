@@ -1,7 +1,7 @@
+from sys import argv
 import psycopg2
 
-conn = psycopg2.connect("dbname=traingraph user=postgres")
-nodes_qry = conn.cursor()
+conn = psycopg2.connect("dbname=%s user=postgres" % argv[1])
 cur = conn.cursor()
 
 while True:

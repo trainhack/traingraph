@@ -1,6 +1,7 @@
+from sys import argv
 import psycopg2
 
-conn = psycopg2.connect("dbname=traingraph_eu user=postgres")
+conn = psycopg2.connect("dbname=%s user=postgres" % argv[1])
 paths_qry = conn.cursor()
 cur = conn.cursor()
 

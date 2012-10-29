@@ -94,11 +94,11 @@ CREATE INDEX idx_path_nodes_path ON path_nodes(path_id, sequence_id);
 
 8) Run build_paths.py to populate the table of paths
 
-python build_paths.py
+python build_paths.py traingraph
 
 9) Populate the linestring and length fields of the paths table
 
-python add_linestrings.py
+python add_linestrings.py traingraph
 
 10) Output as KML
 
