@@ -102,4 +102,4 @@ python add_linestrings.py traingraph
 
 10) Output as KML
 
-python graph_to_kml.py > railways.kml
+python graph_to_kml.py traingraph > railways.kml

@@ -1,8 +1,9 @@
+from sys import argv
 import psycopg2
 import random
 from xml.sax import saxutils
 
-conn = psycopg2.connect("dbname=traingraph user=postgres")
+conn = psycopg2.connect("dbname=%s user=postgres" % argv[1])
 cur = conn.cursor()
 
 COLOURS = ['ff0000', '00ff00', '0000ff', 'ffff00', 'ff00ff', '00ffff']
@@ -22,11 +23,8 @@ print '''<kml xmlns="http://www.opengis.net/kml/2.2">
 
 # extract railway lines
 cur.execute('''
-	-- SELECT ST_ASKML(ST_MAKELINE(node1.geom, node2.geom))
 	SELECT ST_ASKML(linestring)
-	FROM rail_segments
-	INNER JOIN nodes AS node1 ON (node1_id = node1.id)
-	INNER JOIN nodes AS node2 ON (node2_id = node2.id)
+	FROM paths
 ''')
 for (kml,) in cur:
 	print '<Placemark>%s<Style><LineStyle><width>2</width><color>ff%s</color></LineStyle></Style></Placemark>' % (kml, random.choice(COLOURS))
