@@ -82,6 +82,9 @@ CREATE TABLE paths (
 	FOREIGN KEY (node1_id) REFERENCES nodes(id),
 	FOREIGN KEY (node2_id) REFERENCES nodes(id)
 );
+CREATE INDEX idx_paths_node1 ON paths(node1_id);
+CREATE INDEX idx_paths_node2 ON paths(node2_id);
+
 CREATE TABLE path_nodes (
 	path_id BIGINT NOT NULL,
 	node_id BIGINT NOT NULL,
