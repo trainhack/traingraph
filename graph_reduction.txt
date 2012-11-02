@@ -103,6 +103,8 @@ python build_paths.py traingraph
 
 python add_linestrings.py traingraph
 
-10) Output as KML
+10) The database is now ready to run path-finding queries using the find_route script:
 
-python graph_to_kml.py traingraph > railways.kml
+python find_route.py traingraph Oxford "London Paddington"
+
+- which will output a KML LineString element indicating the shortest path between the two stations.
